@@ -6,7 +6,7 @@ title: "Syriac OCR and ATR Models for Kraken: An Independent Usage Guide"
 type: software
 authors:
   - family-names: Issa
-    given-names: James
+    given-names: Jimmy
 license: CC-BY-4.0
 abstract: >-
   Independent documentation connecting the Qoruyo printed Syriac OCR models
