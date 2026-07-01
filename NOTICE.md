@@ -35,7 +35,7 @@ Users retrieve them from their authoritative Zenodo records through Kraken.
 
 ## Documentation authorship
 
-James Issa assembled and independently tested the practical documentation in
+Jimmy Issa assembled and independently tested the practical documentation in
 this repository. Documentation authorship should not be confused with model
 authorship.
 
