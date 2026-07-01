@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Model binaries remain on Zenodo and are not committed here.
+*.mlmodel
+models/
+
+# User inputs and generated OCR outputs.
+images/
+input/
+output/
+*.txt
+!README.md
+!NOTICE.md
+!docs/*.md
