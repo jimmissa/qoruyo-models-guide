@@ -1,8 +1,16 @@
 # Syriac OCR and ATR Models for Kraken
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![Models: Zenodo](https://img.shields.io/badge/models-Zenodo%20source%20of%20truth-blue)](docs/model-catalogue.md)
+[![Model binaries](https://img.shields.io/badge/model%20binaries-not%20included-orange)](NOTICE.md)
+
 An independent guide to finding and using the **Qoruyo** printed-text OCR
 models and **Sophro Mhiro** manuscript ATR models with
 [Kraken](https://kraken.re/).
+
+This guide is intended for Syriac studies scholars, digital humanists,
+librarians, and researchers who need reproducible OCR/ATR workflows for Syriac
+printed books or manuscripts.
 
 > [!IMPORTANT]
 > This is an independent community documentation project. It is **not** an
@@ -10,6 +18,12 @@ models and **Sophro Mhiro** manuscript ATR models with
 > the models. The original models were created by Beth Mardutho and the
 > collaborators named in their Zenodo records. Zenodo is the authoritative
 > source for the model files, metadata, licenses, and version history.
+
+## Repository status
+
+This repository documents how to use the models with Kraken. It does not host
+or version the model binaries. The individual Zenodo records remain the source
+of truth for model files, metadata, authorship, licensing, and version history.
 
 ## Why this repository exists
 
