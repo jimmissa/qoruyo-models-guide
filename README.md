@@ -1,4 +1,4 @@
-# Syriac OCR and ATR Models for Kraken
+# Qoruyo: Syriac OCR and ATR Models for Kraken
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Models: Zenodo](https://img.shields.io/badge/models-Zenodo%20source%20of%20truth-blue)](docs/model-catalogue.md)
