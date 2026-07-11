@@ -43,13 +43,29 @@ are skipped by default, making interrupted runs resumable; use `--overwrite`
 to replace them.
 
 For larger collections, use the included `qoruyo_parallel_kaggle.ipynb` in
-separate notebook sessions. In each session, replace the placeholder paths
-with the location of your image folder and model files. Set the same
-`N_PARTS` in every session, then give each session a different `PART_INDEX`
-from 1 through `N_PARTS`. Each session will sort the images naturally, process
-one deterministic non-overlapping partition, skip completed OCR files, and
-export its results as a ZIP archive. The archives can then be combined into a
-single output folder.
+Kaggle. The notebook is designed for a beginner to run as follows:
+
+1. Create or open a Kaggle notebook and upload this notebook, or copy its
+   cells into the notebook.
+2. Click **Add Data** and attach the dataset containing your page images and
+   the Qoruyo segmentation and recognition model files. Kaggle will expose
+   them under paths beginning with `/kaggle/input/`.
+3. In the configuration cell, replace the placeholder paths with the paths to
+   your own image folder and model files. Leave the first installation cell in
+   place; it installs Kraken in the notebook session.
+4. Choose how many parallel sessions you want by setting `N_PARTS`. For
+   example, with four sessions, set `N_PARTS = 4` in all four notebooks and
+   set `PART_INDEX` to `1`, `2`, `3`, and `4`, respectively. Never give two
+   sessions the same `PART_INDEX`.
+5. Run the cells from top to bottom. Each session processes its own
+   deterministic portion of the images, skips nonempty OCR files if resumed,
+   and creates `qoruyo_ocr_part_N.zip` in `/kaggle/working/`.
+6. Download each ZIP from Kaggle's notebook output area and combine the ZIP
+   contents into one OCR output folder.
+
+The notebook sorts images naturally, so page-numbered filenames are processed
+in page order even when the files were uploaded to Kaggle in an arbitrary
+order.
 
 Including these workflows alongside the outputs provides an additional layer
 of reproducibility: researchers can inspect the exact batch logic and rerun it
