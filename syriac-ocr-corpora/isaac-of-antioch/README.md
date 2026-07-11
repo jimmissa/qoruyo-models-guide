@@ -42,11 +42,14 @@ Add `--recursive` to search image subdirectories. Existing nonempty OCR files
 are skipped by default, making interrupted runs resumable; use `--overwrite`
 to replace them.
 
-For larger collections, open `qoruyo_parallel_kaggle.ipynb` in Kaggle. Set the
-same `N_PARTS` on every machine and assign each machine a distinct
-`PART_INDEX`. The notebook sorts images naturally, selects a deterministic
-non-overlapping partition, performs batched OCR, skips completed files, and
-exports that partition as a ZIP archive.
+For larger collections, use the included `qoruyo_parallel_kaggle.ipynb` in
+separate notebook sessions. In each session, replace the placeholder paths
+with the location of your image folder and model files. Set the same
+`N_PARTS` in every session, then give each session a different `PART_INDEX`
+from 1 through `N_PARTS`. Each session will sort the images naturally, process
+one deterministic non-overlapping partition, skip completed OCR files, and
+export its results as a ZIP archive. The archives can then be combined into a
+single output folder.
 
 Including these workflows alongside the outputs provides an additional layer
 of reproducibility: researchers can inspect the exact batch logic and rerun it
