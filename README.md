@@ -140,10 +140,23 @@ models. See the collection-specific notices before reusing images or text.
 
 ## Model downloads
 
-To download all eight models through Kraken:
+The download helper is part of this repository. After installing Kraken,
+clone the repository and run the helper from the repository root:
 
 ```bash
+git clone https://github.com/jimmissa/qoruyo-models-guide.git
+cd qoruyo-models-guide
 bash scripts/download-all-models.sh
+```
+
+If you do not want to clone the full repository, download the helper directly
+and run it locally:
+
+```bash
+curl -fL -o download-all-models.sh \
+  https://raw.githubusercontent.com/jimmissa/qoruyo-models-guide/main/scripts/download-all-models.sh
+chmod +x download-all-models.sh
+bash download-all-models.sh
 ```
 
 Kraken controls where repository models are stored and prints the resulting
