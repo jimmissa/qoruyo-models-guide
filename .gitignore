@@ -18,6 +18,6 @@ output/
 
 # The curated Isaac corpus below is intentionally versioned as a documented
 # Qoruyo output and therefore overrides the general generated-output rule.
-!corpora/
-!corpora/**/
-!corpora/**/*.txt
+!syriac-ocr-corpora/
+!syriac-ocr-corpora/**/
+!syriac-ocr-corpora/**/*.txt
