@@ -126,19 +126,17 @@ recognition model. See [Manuscript ATR](docs/manuscript-atr.md).
 
 Ready-to-run commands are also available in [`examples/`](examples/).
 
-## Syriac OCR corpora
+## Complete author-level OCR
 
-[`syriac-ocr-corpora/`](syriac-ocr-corpora/) contains author-level Syriac OCR
-corpora assembled to make the complete processing chain inspectable:
+[`syriac-ocr-corpora/`](syriac-ocr-corpora/) contains complete author-level
+Syriac OCR collections with the full processing chain:
 
 1. original page photographs;
 2. cleaned and cropped page images supplied to Kraken; and
 3. page-level Qoruyo OCR output, together with merged text where available.
 
-The linked stages make the OCR reproducible and auditable rather than merely
-providing an unexplained transcription. These materials are not model-training
-data and do not alter the provenance of the Qoruyo or Sophro Mhiro models. See
-the corpus-specific notices before reusing images or text.
+These materials do not alter the provenance of the Qoruyo or Sophro Mhiro
+models. See the collection-specific notices before reusing images or text.
 
 ## Model downloads
 
