@@ -1,0 +1,2 @@
+corpora/isaac-of-antioch-1903/01_original_page_images/*.png filter=lfs diff=lfs merge=lfs -text
+corpora/isaac-of-antioch-1903/02_prepared_page_crops/*.jpg filter=lfs diff=lfs merge=lfs -text

@@ -126,6 +126,14 @@ recognition model. See [Manuscript ATR](docs/manuscript-atr.md).
 
 Ready-to-run commands are also available in [`examples/`](examples/).
 
+## Reproducibility corpora
+
+[`corpora/`](corpora/) contains a small, separately documented set of source
+images, prepared page crops, and Qoruyo OCR outputs from real Syriac printed
+texts. These materials demonstrate the documented workflow; they are not
+model-training data and do not alter the provenance of the Qoruyo or Sophro
+Mhiro models. See the corpus-specific notices before reusing images or text.
+
 ## Model downloads
 
 To download all eight models through Kraken:

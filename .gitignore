@@ -15,3 +15,9 @@ output/
 !README.md
 !NOTICE.md
 !docs/*.md
+
+# The curated Isaac corpus below is intentionally versioned as a documented
+# Qoruyo output and therefore overrides the general generated-output rule.
+!corpora/
+!corpora/**/
+!corpora/**/*.txt
