@@ -16,9 +16,37 @@ it preserves the complete chain from source page to OCR:
 - `03_qoruyo_ocr/`: one UTF-8 plaintext transcription per prepared page.
 - `isaac-of-antioch-complete-qoruyo-ocr.txt`: a numerically ordered merged
   transcription with explicit page markers.
+- `batch_qoruyo_ocr.py`: a standalone command-line script for OCRing every
+  supported image in a folder.
+- `qoruyo_parallel_kaggle.ipynb`: a path-neutral Kaggle notebook for dividing
+  a large image collection into deterministic parts processed on separate
+  machines.
 
 The image and OCR filenames retain their page numbers, permitting direct
 comparison from source image through crop to transcription.
+
+## Batch OCR helpers
+
+After installing Kraken and downloading the appropriate Qoruyo models, OCR all
+supported images in a local folder with:
+
+```bash
+python3 batch_qoruyo_ocr.py \
+  --images-dir /path/to/page-images \
+  --output-dir /path/to/ocr-output \
+  --seg-model /path/to/syr_print_seg03_91.mlmodel \
+  --ocr-model /path/to/recognition-model.mlmodel
+```
+
+Add `--recursive` to search image subdirectories. Existing nonempty OCR files
+are skipped by default, making interrupted runs resumable; use `--overwrite`
+to replace them.
+
+For larger collections, open `qoruyo_parallel_kaggle.ipynb` in Kaggle. Set the
+same `N_PARTS` on every machine and assign each machine a distinct
+`PART_INDEX`. The notebook sorts images naturally, selects a deterministic
+non-overlapping partition, performs batched OCR, skips completed files, and
+exports that partition as a ZIP archive.
 
 ## OCR workflow
 
