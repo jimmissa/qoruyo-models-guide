@@ -13,7 +13,8 @@ accuracy without obscuring model provenance.
 
 ## Requirements
 
-- Do not commit model binaries, copyrighted page images, or OCR corpora.
+- Do not commit model binaries. Corpus images and OCR may be added only when
+  they have a clear provenance notice and preserve the source-to-output chain.
 - Cite the relevant Zenodo DOI when describing a model.
 - Distinguish tested behavior from recommendations or inference.
 - Do not imply endorsement by the original creators.
