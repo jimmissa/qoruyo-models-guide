@@ -1,7 +1,7 @@
 # Isaac of Antioch: Qoruyo OCR Corpus
 
 This is a complete page-level OCR corpus for the 837 prepared pages of the
-1903 Isaac of Antioch edition used in this project. It is reproducible because
+1903 Isaac of Antioch edition by Paul Bedjan used in this project. It is reproducible because
 it preserves the complete chain from source page to OCR:
 
 1. the original page photographs;
