@@ -48,6 +48,11 @@ same `N_PARTS` on every machine and assign each machine a distinct
 non-overlapping partition, performs batched OCR, skips completed files, and
 exports that partition as a ZIP archive.
 
+Including these workflows alongside the outputs provides an additional layer
+of reproducibility: researchers can inspect the exact batch logic and rerun it
+on their own image folders with their own model paths, rather than relying
+only on the finished OCR files.
+
 ## OCR workflow
 
 The transcriptions were generated with the Qoruyo printed-page segmentation
