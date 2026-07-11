@@ -3,9 +3,10 @@
 This directory contains page-level materials used to demonstrate and validate
 the Kraken workflows documented in this repository.
 
-- [`isaac-of-antioch-1903/`](isaac-of-antioch-1903/) contains the complete
+- [`isaac-of-antioch/`](isaac-of-antioch/) contains the complete
   837-page Isaac of Antioch OCR corpus: original page images, prepared crops,
-  and page-level Qoruyo transcription output.
+  page-level Qoruyo transcription output, and a page-delimited merged text
+  file.
 - [`jacob-of-serugh/`](jacob-of-serugh/) reserves the same structure for the
   independently generated Jacob of Serugh corpus, which is being assembled.
 

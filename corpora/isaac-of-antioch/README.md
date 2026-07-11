@@ -9,6 +9,8 @@ This is a complete page-level OCR corpus for the 837 prepared pages of the
 - `02_prepared_page_crops/`: cleaned/cropped JPEG page images supplied to
   Kraken for OCR.
 - `03_qoruyo_ocr/`: one UTF-8 plaintext transcription per prepared page.
+  The same directory also contains `isaac-of-antioch-complete-qoruyo-ocr.txt`,
+  a numerically ordered merged transcription with explicit page markers.
 
 The image and OCR filenames retain their page numbers, permitting direct
 comparison from source image through crop to transcription.
