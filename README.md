@@ -129,14 +129,17 @@ Ready-to-run commands are also available in [`examples/`](examples/).
 ## Complete author-level OCR
 
 [`syriac-ocr-corpora/`](syriac-ocr-corpora/) contains complete author-level
-Syriac OCR collections with the full processing chain:
+Syriac OCR collections. Where supplied, the full processing chain includes:
 
 1. original page photographs;
 2. cleaned and cropped page images supplied to Kraken; and
 3. page-level Qoruyo OCR output, together with merged text where available.
 
-These materials do not alter the provenance of the Qoruyo or Sophro Mhiro
-models. See the collection-specific notices before reusing images or text.
+The Isaac collection includes this complete image-to-OCR chain. The current
+Jacob of Serugh release contains the complete page-level OCR text for six
+volumes, while its page images remain outside the repository for now. These
+materials do not alter the provenance of the Qoruyo or Sophro Mhiro models.
+See the collection-specific notices before reusing images or text.
 
 ## Model downloads
 
