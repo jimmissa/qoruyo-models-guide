@@ -9,9 +9,9 @@ prepared page images are not included at this stage.
 
 - `03_qoruyo_ocr/vol1/` through `vol6/`: one UTF-8 plaintext OCR file per
   processed page.
-- `merged/`: one numerically ordered merged OCR file for each volume.
-- `jacob-of-serugh-complete-qoruyo-ocr.txt`: all six volumes combined, with
-  explicit volume and page markers.
+- `jacob-of-serugh-volume-1-complete-qoruyo-ocr.txt` through
+  `jacob-of-serugh-volume-6-complete-qoruyo-ocr.txt`: six numerically ordered
+  merged transcriptions, placed in this directory for direct access.
 - `manifest.json`: page counts, relative paths, page numbers, and SHA-256
   checksums for every page-level OCR file.
 - `build_merged_ocr.py`: rebuilds the merged files and manifest from the
@@ -37,8 +37,8 @@ python3 build_merged_ocr.py
 ```
 
 The script discovers page files by their `_page_N.txt` suffix, orders them
-numerically within each volume, recreates the six files under `merged/`,
-recreates the complete corpus file, and regenerates `manifest.json`.
+numerically within each volume, recreates the six merged files in this
+directory, and regenerates `manifest.json`.
 
 ## OCR workflow
 

@@ -3,7 +3,7 @@
     {
       "volume": 1,
       "page_count": 720,
-      "merged_file": "merged/jacob-of-serugh-volume-1-complete-qoruyo-ocr.txt",
+      "merged_file": "jacob-of-serugh-volume-1-complete-qoruyo-ocr.txt",
       "pages": [
         {
           "page": 1,
@@ -3610,7 +3610,7 @@
     {
       "volume": 2,
       "page_count": 890,
-      "merged_file": "merged/jacob-of-serugh-volume-2-complete-qoruyo-ocr.txt",
+      "merged_file": "jacob-of-serugh-volume-2-complete-qoruyo-ocr.txt",
       "pages": [
         {
           "page": 1,
@@ -8067,7 +8067,7 @@
     {
       "volume": 3,
       "page_count": 912,
-      "merged_file": "merged/jacob-of-serugh-volume-3-complete-qoruyo-ocr.txt",
+      "merged_file": "jacob-of-serugh-volume-3-complete-qoruyo-ocr.txt",
       "pages": [
         {
           "page": 1,
@@ -12634,7 +12634,7 @@
     {
       "volume": 4,
       "page_count": 914,
-      "merged_file": "merged/jacob-of-serugh-volume-4-complete-qoruyo-ocr.txt",
+      "merged_file": "jacob-of-serugh-volume-4-complete-qoruyo-ocr.txt",
       "pages": [
         {
           "page": 1,
@@ -17211,7 +17211,7 @@
     {
       "volume": 5,
       "page_count": 899,
-      "merged_file": "merged/jacob-of-serugh-volume-5-complete-qoruyo-ocr.txt",
+      "merged_file": "jacob-of-serugh-volume-5-complete-qoruyo-ocr.txt",
       "pages": [
         {
           "page": 1,
@@ -21713,7 +21713,7 @@
     {
       "volume": 6,
       "page_count": 333,
-      "merged_file": "merged/jacob-of-serugh-volume-6-complete-qoruyo-ocr.txt",
+      "merged_file": "jacob-of-serugh-volume-6-complete-qoruyo-ocr.txt",
       "pages": [
         {
           "page": 1,
@@ -23383,6 +23383,5 @@
       ]
     }
   ],
-  "total_pages": 4668,
-  "complete_merged_file": "jacob-of-serugh-complete-qoruyo-ocr.txt"
+  "total_pages": 4668
 }

@@ -11,7 +11,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 OCR_ROOT = ROOT / "03_qoruyo_ocr"
-MERGED_ROOT = ROOT / "merged"
 PAGE_RE = re.compile(r"_page_(?P<page>\d+)\.txt$", re.IGNORECASE)
 
 
@@ -39,9 +38,7 @@ def page_block(volume: int, page: int, text: str) -> str:
 
 
 def main() -> None:
-    MERGED_ROOT.mkdir(parents=True, exist_ok=True)
     manifest = {"volumes": [], "total_pages": 0}
-    corpus_blocks: list[str] = []
 
     for volume in range(1, 7):
         volume_dir = OCR_ROOT / f"vol{volume}"
@@ -68,7 +65,6 @@ def main() -> None:
             text = path.read_text(encoding="utf-8")
             block = page_block(volume, number, text)
             volume_blocks.append(block)
-            corpus_blocks.append(block)
             page_entries.append(
                 {
                     "page": number,
@@ -78,7 +74,7 @@ def main() -> None:
             )
 
         merged_path = (
-            MERGED_ROOT
+            ROOT
             / f"jacob-of-serugh-volume-{volume}-complete-qoruyo-ocr.txt"
         )
         merged_path.write_text("\n".join(volume_blocks), encoding="utf-8")
@@ -93,10 +89,6 @@ def main() -> None:
         )
         manifest["total_pages"] += len(pages)
 
-    complete_path = ROOT / "jacob-of-serugh-complete-qoruyo-ocr.txt"
-    complete_path.write_text("\n".join(corpus_blocks), encoding="utf-8")
-    manifest["complete_merged_file"] = complete_path.relative_to(ROOT).as_posix()
-
     (ROOT / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -104,7 +96,7 @@ def main() -> None:
 
     print(f"Volumes: {len(manifest['volumes'])}")
     print(f"Page files: {manifest['total_pages']}")
-    print(f"Complete OCR: {complete_path}")
+    print("Merged volume files written to the corpus root")
 
 
 if __name__ == "__main__":

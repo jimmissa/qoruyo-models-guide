@@ -136,8 +136,9 @@ Syriac OCR collections. Where supplied, the full processing chain includes:
 3. page-level Qoruyo OCR output, together with merged text where available.
 
 The Isaac collection includes this complete image-to-OCR chain. The current
-Jacob of Serugh release contains the complete page-level OCR text for six
-volumes, while its page images remain outside the repository for now. These
+Jacob of Serugh release contains the complete page-level OCR text and one
+merged transcription for each of six volumes, while its page images remain
+outside the repository for now. These
 materials do not alter the provenance of the Qoruyo or Sophro Mhiro models.
 See the collection-specific notices before reusing images or text.
 

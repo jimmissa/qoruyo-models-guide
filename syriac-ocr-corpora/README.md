@@ -12,5 +12,5 @@ OCR output:
 [`isaac-of-antioch/`](isaac-of-antioch/) contains the complete 837-page Isaac
 of Antioch corpus with source images, prepared crops, and OCR.
 [`jacob-of-serugh/`](jacob-of-serugh/) contains 4,668 page-level OCR files from
-six volumes, together with volume-level and corpus-level merged text. Its page
-images are not included in the current text-only release.
+six volumes, together with one directly accessible merged text per volume. Its
+page images are not included in the current text-only release.
