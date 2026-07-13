@@ -16,6 +16,8 @@ prepared page images are not included at this stage.
   checksums for every page-level OCR file.
 - `build_merged_ocr.py`: rebuilds the merged files and manifest from the
   page-level OCR directories.
+- `qoruyo_parallel_kaggle.ipynb`: reproduces the volume-aware, parallelized
+  Kaggle OCR workflow used for large image collections.
 
 The page-level collection contains 4,668 OCR files:
 
@@ -55,6 +57,35 @@ kraken -i page.jpg page.txt \
 See the repository's [printed-text workflow](../../docs/printed-text-ocr.md)
 and [right-to-left guidance](../../docs/right-to-left.md). Cite the relevant
 Zenodo model records rather than attributing the models to this repository.
+
+## Parallel OCR in Kaggle
+
+The included [`qoruyo_parallel_kaggle.ipynb`](qoruyo_parallel_kaggle.ipynb)
+divides one Jacob volume into deterministic, non-overlapping parts that can be
+processed simultaneously in separate Kaggle notebook sessions.
+
+1. Create a Kaggle notebook and import `qoruyo_parallel_kaggle.ipynb`.
+2. Use **Add Input** to attach a Kaggle dataset containing the cropped page
+   images, `syr_print_seg03_91.mlmodel`, and
+   `SyrEastSyr_01_18.mlmodel`. Kaggle mounts attached datasets below
+   `/kaggle/input/`; this is a standard Kaggle path, not a private local path.
+3. Set `VOLUME` to the volume being processed. Set `N_PARTS` to the number of
+   parallel sessions and give every session a distinct `PART_INDEX` from `1`
+   through `N_PARTS`. For four sessions, all four use `N_PARTS = 4`, while
+   their `PART_INDEX` values are `1`, `2`, `3`, and `4`.
+4. Run both notebook cells. Each session installs Kraken, discovers the
+   attached models and appropriate volume images, executes Qoruyo with the
+   validated right-to-left settings, and writes a ZIP archive under
+   `/kaggle/working/`.
+5. Download every part ZIP and combine their text files into the volume's OCR
+   directory. Output filenames use deterministic volume-wide page numbers, so
+   independently processed parts do not overlap.
+
+The notebook handles Volumes 1-5 as single image collections. It also handles
+the two sequential image collections used for Volume 6, assigning the second
+collection an offset so that its output page numbers continue from the first.
+Saved execution output and account-specific dataset paths have been removed
+from the published notebook.
 
 ## Scope and reuse
 
