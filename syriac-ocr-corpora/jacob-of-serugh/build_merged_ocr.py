@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OCR_ROOT = ROOT / "03_qoruyo_ocr"
 PAGE_RE = re.compile(r"_page_(?P<page>\d+)\.txt$", re.IGNORECASE)
+NUMBER_ONLY_RE = re.compile(r"^\d+$")
 
 
 def page_number(path: Path) -> int:
@@ -30,7 +31,12 @@ def sha256(path: Path) -> str:
 
 
 def page_block(volume: int, page: int, text: str) -> str:
-    clean_text = text.rstrip("\n")
+    clean_lines = [
+        line.rstrip()
+        for line in text.splitlines()
+        if line.strip() and not NUMBER_ONLY_RE.fullmatch(line.strip())
+    ]
+    clean_text = "\n".join(clean_lines)
     return (
         f"===== VOLUME {volume} | PAGE {page:04d} =====\n"
         f"{clean_text}\n"
@@ -77,7 +83,7 @@ def main() -> None:
             ROOT
             / f"jacob-of-serugh-volume-{volume}-complete-qoruyo-ocr.txt"
         )
-        merged_path.write_text("\n".join(volume_blocks), encoding="utf-8")
+        merged_path.write_text("".join(volume_blocks), encoding="utf-8")
 
         manifest["volumes"].append(
             {
