@@ -12,7 +12,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OCR_ROOT = ROOT / "03_qoruyo_ocr"
 PAGE_RE = re.compile(r"_page_(?P<page>\d+)\.txt$", re.IGNORECASE)
-NUMBER_ONLY_RE = re.compile(r"^\d+$")
+# Qoruyo occasionally inserts Syriac vowel/point marks into page numbers,
+# e.g. ``7ܲ4``. Treat those as number-only metadata too.
+NUMBER_ONLY_RE = re.compile(
+    r"^[\s\d٠-٩۰-۹\u0730-\u074a.,:;()\-]+$"
+)
 
 
 def page_number(path: Path) -> int:
