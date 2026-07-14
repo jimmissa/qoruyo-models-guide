@@ -14,3 +14,6 @@ of Antioch corpus with source images, prepared crops, and OCR.
 [`jacob-of-serugh/`](jacob-of-serugh/) contains 4,668 page-level OCR files from
 six volumes, together with one directly accessible merged text per volume. Its
 page images are not included in the current text-only release.
+
+[`NEXT_OCR_TARGETS.md`](NEXT_OCR_TARGETS.md) lists additional public-domain
+Syriac text editions that are good candidates for future OCR expansion.
