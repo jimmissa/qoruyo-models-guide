@@ -1,0 +1,44 @@
+{
+  "project_id": "YOUR_GOOGLE_CLOUD_PROJECT_ID",
+  "location": "us",
+  "processor_id": "YOUR_LAYOUT_PARSER_PROCESSOR_ID",
+  "processor_version_id": "",
+  "credentials_path": "",
+  "source_dir": "..",
+  "output_dir": "document_ai_layout_output",
+  "file_glob": "page_*.png",
+  "page_number_regex": "(?:page[_-]?)?(\\d+)",
+  "request": {
+    "return_bounding_boxes": true,
+    "return_images": false,
+    "enable_image_annotation": false,
+    "enable_table_annotation": false,
+    "chunk_size": 500,
+    "include_ancestor_headings": true,
+    "field_mask": "",
+    "sleep_seconds": 0.0,
+    "skip_existing": true
+  },
+  "body_extraction": {
+    "strategy": "adaptive",
+    "min_syriac_chars": 2,
+    "crop_padding_fraction": 0.015,
+    "repeated_text_min_pages": 2,
+    "repeated_prefix_chars": 24,
+    "page_number_row_height_multiplier": 1.5,
+    "mixed_apparatus_fraction": 0.25,
+    "apparatus_mixed_fraction": 0.05,
+    "page_number_top_fraction": 0.2,
+    "visual_rule_min_run_fraction": 0.35,
+    "visual_header_rule_max_frame_fraction": 0.15,
+    "review_policy": "keep",
+    "exclude_labels_containing": [
+      "header",
+      "footer",
+      "footnote",
+      "page_number",
+      "page number"
+    ],
+    "overrides": {}
+  }
+}

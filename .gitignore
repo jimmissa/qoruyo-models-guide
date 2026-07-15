@@ -3,6 +3,13 @@
 __pycache__/
 *.pyc
 
+# Document AI local configuration and generated job material.
+document_ai_config.local.json
+cloud_batch_config.local.json
+*.document.json
+cloud_jobs/
+document_ai_output/
+
 # Model binaries remain on Zenodo and are not committed here.
 *.mlmodel
 models/

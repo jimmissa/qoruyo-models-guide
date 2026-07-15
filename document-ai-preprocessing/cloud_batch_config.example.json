@@ -1,0 +1,23 @@
+{
+  "project_id": "YOUR_GOOGLE_CLOUD_PROJECT_ID",
+  "location": "us",
+  "processor_id": "YOUR_LAYOUT_PARSER_PROCESSOR_ID",
+  "processor_version_id": "",
+  "request": {
+    "return_bounding_boxes": true,
+    "return_images": false,
+    "enable_image_annotation": false,
+    "enable_table_annotation": false,
+    "chunk_size": 500,
+    "include_ancestor_headings": true,
+    "field_mask": "documentLayout,chunkedDocument"
+  },
+  "cloud_batch": {
+    "bucket_name": "YOUR_CLOUD_STORAGE_BUCKET",
+    "input_prefix": "document-layout-inputs",
+    "output_prefix": "document-layout-outputs",
+    "local_jobs_dir": "cloud_jobs",
+    "batch_size": 50,
+    "poll_seconds": 15
+  }
+}

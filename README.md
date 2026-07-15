@@ -123,6 +123,7 @@ recognition model. See [Manuscript ATR](docs/manuscript-atr.md).
 - [Advanced Qoruyo/Kraken technical reference](docs/technical-reference.md)
 - [Troubleshooting and validation](docs/troubleshooting.md)
 - [Attribution and provenance](NOTICE.md)
+- [Document AI preprocessing](document-ai-preprocessing/)
 
 Ready-to-run commands are also available in [`examples/`](examples/).
 
