@@ -5,8 +5,9 @@ The uncropped source edition documented by this corpus is:
 [Isaac of Nineveh, *De perfectione religiosa*](https://archive.org/details/deperfectionerel0000isaa)
 
 The Archive.org record is the external source record for the edition. The
-uncropped page images are not duplicated in this repository.
+The uncropped page images are included in `uncropped_photos/` for reproducible
+inspection and later processing.
 
-The prepared images in `../02_prepared_page_crops/` were produced from local
-page images derived from this source and processed through the project's
-Document AI layout-cleaning workflow.
+The files preserve the source page framing and use filenames keyed to the
+source page number. Prepared crops and OCR are separate downstream outputs and
+are not included in the current Isaac of Nineveh release.
