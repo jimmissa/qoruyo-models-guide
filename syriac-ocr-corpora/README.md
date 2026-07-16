@@ -25,7 +25,6 @@ page images are not included in the current text-only release.
 [`NEXT_OCR_TARGETS.md`](NEXT_OCR_TARGETS.md) lists additional public-domain
 Syriac text editions that are good candidates for future OCR expansion.
 
-[`isaac-of-nineveh/`](isaac-of-nineveh/) currently contains the 638 uncropped
-source page images for the Isaac of Nineveh edition documented at Archive.org.
-Its prepared crops and Qoruyo OCR are intentionally withheld until those
-downstream stages are ready for release.
+[`isaac-of-nineveh/`](isaac-of-nineveh/) contains 638 uncropped source page
+images, 638 replacement page-level Qoruyo OCR files, and a cleaned merged OCR
+for the Isaac of Nineveh edition documented at Archive.org.

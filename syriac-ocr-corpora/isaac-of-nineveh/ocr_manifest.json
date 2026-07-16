@@ -1,0 +1,5139 @@
+{
+  "archives": [
+    {
+      "part": 1,
+      "file": "/Users/jimmyissa/Downloads/isaac_nineveh_qoruyo_ocr_part_1.zip",
+      "sha256": "b677a7ad2f0248ab79649f220bb3facc0b85806df333e66aebf88392c92be3e4"
+    },
+    {
+      "part": 2,
+      "file": "/Users/jimmyissa/Downloads/isaac_nineveh_qoruyo_ocr_part_2.zip",
+      "sha256": "18b27b8678849f7e2e22b1afd90156d3e55205455a9cae191d71424aeb0e8884"
+    },
+    {
+      "part": 3,
+      "file": "/Users/jimmyissa/Downloads/isaac_nineveh_qoruyo_ocr_part_3.zip",
+      "sha256": "261cc8c03e1dc9b8ae86e24713ae0568d86dbb56ab849f8f8deb4377f90ff14f"
+    },
+    {
+      "part": 4,
+      "file": "/Users/jimmyissa/Downloads/isaac_nineveh_qoruyo_ocr_part_4.zip",
+      "sha256": "4b05c4473f1841edc0d8f8de13dae385939bcb0ec454a124016fc246364f122c"
+    },
+    {
+      "part": 5,
+      "file": "/Users/jimmyissa/Downloads/isaac_nineveh_qoruyo_ocr_part_5.zip",
+      "sha256": "04be29afdd8633df4c3b866fec4c833c929708414da2139f42506320dc51352c"
+    }
+  ],
+  "page_count": 638,
+  "first_page": 1,
+  "last_page": 638,
+  "merged_cleanup": "blank and integer-only OCR lines removed",
+  "pages": [
+    {
+      "file": "Bedjan_page_1.txt",
+      "page": 1,
+      "parts": [
+        1
+      ],
+      "sha256": "e6f2ddd39ea15f0023e8fbca0db2c74e1176b1eda9bad7ee612dd99da0884d69"
+    },
+    {
+      "file": "Bedjan_page_2.txt",
+      "page": 2,
+      "parts": [
+        1
+      ],
+      "sha256": "ba2faa17f7f1aef0fefa1841d8291438c9bca0311cdf653b68953c26fa4cea65"
+    },
+    {
+      "file": "Bedjan_page_3.txt",
+      "page": 3,
+      "parts": [
+        1
+      ],
+      "sha256": "bc5eb4e4b97a7b5dcebc293511af3398c217fbc6366b540c2c4ab4e773a254e9"
+    },
+    {
+      "file": "Bedjan_page_4.txt",
+      "page": 4,
+      "parts": [
+        1
+      ],
+      "sha256": "3589dfc20729fa912384cc6840142a61347a4bc4ca0f8939cc2831427fff2748"
+    },
+    {
+      "file": "Bedjan_page_5.txt",
+      "page": 5,
+      "parts": [
+        1
+      ],
+      "sha256": "09a4dc341d83cff727c2c30ab289e54bfb34f8a90b809673363feec8f95f7d65"
+    },
+    {
+      "file": "Bedjan_page_6.txt",
+      "page": 6,
+      "parts": [
+        1
+      ],
+      "sha256": "7a1203e476dc726f68ee2b11cb71310480dfab2c861bc07a58be045a45136687"
+    },
+    {
+      "file": "Bedjan_page_7.txt",
+      "page": 7,
+      "parts": [
+        1
+      ],
+      "sha256": "b3fa2177d29c3679217744ebf007da4d6ff89e42a93588573551596d7473791b"
+    },
+    {
+      "file": "Bedjan_page_8.txt",
+      "page": 8,
+      "parts": [
+        1
+      ],
+      "sha256": "e6870a46febf4fed115fac7bd10640ee5350abcf88f61da90c90aa19d76c2999"
+    },
+    {
+      "file": "Bedjan_page_9.txt",
+      "page": 9,
+      "parts": [
+        1
+      ],
+      "sha256": "b9c01350679bf68507eb32bbc698a7fa971f5ee85558b2946861cb8a391aca52"
+    },
+    {
+      "file": "Bedjan_page_10.txt",
+      "page": 10,
+      "parts": [
+        1
+      ],
+      "sha256": "7d77574573b3c8d028424b724ade7fb4761a17b10adbe045c8254fe0888f8e65"
+    },
+    {
+      "file": "Bedjan_page_11.txt",
+      "page": 11,
+      "parts": [
+        1
+      ],
+      "sha256": "fe51c122988d6623d51959ac202e4a73a13b7d02af435bab25ca22b0ed6abedb"
+    },
+    {
+      "file": "Bedjan_page_12.txt",
+      "page": 12,
+      "parts": [
+        1
+      ],
+      "sha256": "8bb24e72d2059c844dbb7d5bbe4995972141f34a5aeeceec133cfdbb103cd9d4"
+    },
+    {
+      "file": "Bedjan_page_13.txt",
+      "page": 13,
+      "parts": [
+        1
+      ],
+      "sha256": "0f187c950510361a6b68d9e4bb1395aefa128314cf8f8259abe56b16837b3cfe"
+    },
+    {
+      "file": "Bedjan_page_14.txt",
+      "page": 14,
+      "parts": [
+        1
+      ],
+      "sha256": "454408a8589d16f8b7df5a9c1a5d67b7ac1e709736a959ef5b2058bddeadeb0f"
+    },
+    {
+      "file": "Bedjan_page_15.txt",
+      "page": 15,
+      "parts": [
+        1
+      ],
+      "sha256": "3780b11bc72f7f649d3dcb0950bd73ba01dadfe3242582d884629dfda0a5f46a"
+    },
+    {
+      "file": "Bedjan_page_16.txt",
+      "page": 16,
+      "parts": [
+        1
+      ],
+      "sha256": "3ba0d21fad07c065a5c3681ca07558d7e8fdb5413719b28534181a9137b77b61"
+    },
+    {
+      "file": "Bedjan_page_17.txt",
+      "page": 17,
+      "parts": [
+        1
+      ],
+      "sha256": "30dec3155b4bd31f0ac87fd01bd9ea23bd15983c3bac9e6fce079553238df5ac"
+    },
+    {
+      "file": "Bedjan_page_18.txt",
+      "page": 18,
+      "parts": [
+        1
+      ],
+      "sha256": "99ac6206c59b4a64fea23a3dfd6a3a02ef9a426b2637dbe5c7f2410f6d8f19e7"
+    },
+    {
+      "file": "Bedjan_page_19.txt",
+      "page": 19,
+      "parts": [
+        1
+      ],
+      "sha256": "c041620b4cc16a9bf123d5462bc0516cd5bd0370473cec76cb615a27e08243ec"
+    },
+    {
+      "file": "Bedjan_page_20.txt",
+      "page": 20,
+      "parts": [
+        1
+      ],
+      "sha256": "07ac240b1b985e6d9755a3fbf63eaebe2e529b2df423e343a6619431d9c5a00f"
+    },
+    {
+      "file": "Bedjan_page_21.txt",
+      "page": 21,
+      "parts": [
+        1
+      ],
+      "sha256": "452068220a904349c971a48049353d522a04a4e149d8fc72fc53762a660bdc61"
+    },
+    {
+      "file": "Bedjan_page_22.txt",
+      "page": 22,
+      "parts": [
+        1
+      ],
+      "sha256": "f666f5c90d9ba7b05e5d2cb7b2d9461c16e866511341dcf3160df64f89599660"
+    },
+    {
+      "file": "Bedjan_page_23.txt",
+      "page": 23,
+      "parts": [
+        1
+      ],
+      "sha256": "5b612f6455525a6bb78c221e1a0742ef1a659a1fd36bce8557037bc56ff60ecf"
+    },
+    {
+      "file": "Bedjan_page_24.txt",
+      "page": 24,
+      "parts": [
+        1
+      ],
+      "sha256": "f4fb0c0d76459172e15820e2e3b00614f45c82e3348101bd45d147a36b7026f5"
+    },
+    {
+      "file": "Bedjan_page_25.txt",
+      "page": 25,
+      "parts": [
+        1
+      ],
+      "sha256": "fa5be6858611d92c79e05c0ace44eef2f947dad4c4e2ba7506382c54b0334325"
+    },
+    {
+      "file": "Bedjan_page_26.txt",
+      "page": 26,
+      "parts": [
+        1
+      ],
+      "sha256": "95bf181b86b289190405f0f9623d108621793a9ac9dc4e8abe0826f557531e6a"
+    },
+    {
+      "file": "Bedjan_page_27.txt",
+      "page": 27,
+      "parts": [
+        1
+      ],
+      "sha256": "3868a09a889df31fe4000eabcec2e703efa02f54267d88ed929042a72efe1887"
+    },
+    {
+      "file": "Bedjan_page_28.txt",
+      "page": 28,
+      "parts": [
+        1
+      ],
+      "sha256": "87598aadcd4f713c0ee9b4050a686f6c284b632ba6ef22dd6563e2b45fb4ba5a"
+    },
+    {
+      "file": "Bedjan_page_29.txt",
+      "page": 29,
+      "parts": [
+        1
+      ],
+      "sha256": "cd512f0c6c4223af8c4a013dcb7169232d49159f957eb9df0f0495053c914b88"
+    },
+    {
+      "file": "Bedjan_page_30.txt",
+      "page": 30,
+      "parts": [
+        1
+      ],
+      "sha256": "0d310af34b34164d56a40f578f6ba2e3c4d46eb024d3c1c2b52042825803f9e7"
+    },
+    {
+      "file": "Bedjan_page_31.txt",
+      "page": 31,
+      "parts": [
+        1
+      ],
+      "sha256": "8347a0d87311e69679839888f6f040fe59e023ace1e69432d78ae6facd09d56f"
+    },
+    {
+      "file": "Bedjan_page_32.txt",
+      "page": 32,
+      "parts": [
+        1
+      ],
+      "sha256": "3231220ac740973c5ce568795d80591a57dea30e9c67fca287d66b2f9a5a1467"
+    },
+    {
+      "file": "Bedjan_page_33.txt",
+      "page": 33,
+      "parts": [
+        1
+      ],
+      "sha256": "a7c1c1ba349379f761aad316942b3e5119cc4779abc7d37d2f0d9af6cfbd9835"
+    },
+    {
+      "file": "Bedjan_page_34.txt",
+      "page": 34,
+      "parts": [
+        1
+      ],
+      "sha256": "f65750bf9e2b7276b98419ff2acbc2d60ee4f6b13f295642122b95623e8be167"
+    },
+    {
+      "file": "Bedjan_page_35.txt",
+      "page": 35,
+      "parts": [
+        1
+      ],
+      "sha256": "3938604151f5ef82434de3d69fa889674acfe52b20906430fd9fd2a626993d75"
+    },
+    {
+      "file": "Bedjan_page_36.txt",
+      "page": 36,
+      "parts": [
+        1
+      ],
+      "sha256": "40f1984b8ff8acec6037af53008b5b44e254257cb1d5dc013b7e9350adb4da96"
+    },
+    {
+      "file": "Bedjan_page_37.txt",
+      "page": 37,
+      "parts": [
+        1
+      ],
+      "sha256": "5aebf737af50f961e18c8f91efd06001c955bfb1d5633db242b20ced1426c58b"
+    },
+    {
+      "file": "Bedjan_page_38.txt",
+      "page": 38,
+      "parts": [
+        1
+      ],
+      "sha256": "d1f28df6ebe57cdf84cc2eeb64695372649cce965f9ada856f74df8fe25065f5"
+    },
+    {
+      "file": "Bedjan_page_39.txt",
+      "page": 39,
+      "parts": [
+        1
+      ],
+      "sha256": "0544fd738d2bde93cc3c5184037eade724e3e179ae1ddadce8256b138a50c930"
+    },
+    {
+      "file": "Bedjan_page_40.txt",
+      "page": 40,
+      "parts": [
+        1
+      ],
+      "sha256": "86ea571a70f0c85eb4ce48ca25885d409496f20f1b1bb26bc0510502d3e89753"
+    },
+    {
+      "file": "Bedjan_page_41.txt",
+      "page": 41,
+      "parts": [
+        1
+      ],
+      "sha256": "17126e76224847d73b807871e91f6267e0bf6d42f0c8e9c64021779e58dc72a7"
+    },
+    {
+      "file": "Bedjan_page_42.txt",
+      "page": 42,
+      "parts": [
+        1
+      ],
+      "sha256": "c0a6cd826cf1bdbd01c0b507d8746740fc8ed4c8fa8152ee8930a6684ddb1ef4"
+    },
+    {
+      "file": "Bedjan_page_43.txt",
+      "page": 43,
+      "parts": [
+        1
+      ],
+      "sha256": "d7e65e7ccc9d8d55fe2ef6d25ea98aa93932b28b62761189b318b86752235efc"
+    },
+    {
+      "file": "Bedjan_page_44.txt",
+      "page": 44,
+      "parts": [
+        1
+      ],
+      "sha256": "7fa7ea23577f86aefb36e335bc5e34e0d4bbb82b06eaf7d6a19b2a8dad6c9372"
+    },
+    {
+      "file": "Bedjan_page_45.txt",
+      "page": 45,
+      "parts": [
+        1
+      ],
+      "sha256": "26c1a9e210083faa2a52b2848c5be88e8285caa82f127b74a31c7843f19ea1bc"
+    },
+    {
+      "file": "Bedjan_page_46.txt",
+      "page": 46,
+      "parts": [
+        1
+      ],
+      "sha256": "7cd1dfafbcb6cbf5ea1b9adff6e0719de0effa74fe9d5c25160949c043bfd475"
+    },
+    {
+      "file": "Bedjan_page_47.txt",
+      "page": 47,
+      "parts": [
+        1
+      ],
+      "sha256": "271e2e15d63e31a1ab9eedf5a5f8d6a7a09c59e2eedd6e4426f0de9f4b5177fa"
+    },
+    {
+      "file": "Bedjan_page_48.txt",
+      "page": 48,
+      "parts": [
+        1
+      ],
+      "sha256": "4654de7f0d0f863fd900df02c3e786d219460fa365da92f08438f2139a58d946"
+    },
+    {
+      "file": "Bedjan_page_49.txt",
+      "page": 49,
+      "parts": [
+        1
+      ],
+      "sha256": "12056bf391ef0c644355221fe48c51de3ae32a5387a5798a2bee3cd62ad5dedd"
+    },
+    {
+      "file": "Bedjan_page_50.txt",
+      "page": 50,
+      "parts": [
+        1
+      ],
+      "sha256": "ab5159f2b848bec5be6150455fc3aff4b0227663cec5aa102aab83a53288f50f"
+    },
+    {
+      "file": "Bedjan_page_51.txt",
+      "page": 51,
+      "parts": [
+        1
+      ],
+      "sha256": "a50c77d88cfbc31f72bd9ff0c9ce5bc96be3827c06f2ee013ca350b7790c580b"
+    },
+    {
+      "file": "Bedjan_page_52.txt",
+      "page": 52,
+      "parts": [
+        1
+      ],
+      "sha256": "194e95aa7e699f574ba79e9660a3ee6c88d6103d0b6bfd2af73d342b1b048ca1"
+    },
+    {
+      "file": "Bedjan_page_53.txt",
+      "page": 53,
+      "parts": [
+        1
+      ],
+      "sha256": "1d45e7a4f344eb6b8f774220317b427ba48f9bd602302a304c1790c533c17494"
+    },
+    {
+      "file": "Bedjan_page_54.txt",
+      "page": 54,
+      "parts": [
+        1
+      ],
+      "sha256": "7a501f95c5523f375a48c1e2ae3db8fede9018b05308f4cc5589caeb22ac8733"
+    },
+    {
+      "file": "Bedjan_page_55.txt",
+      "page": 55,
+      "parts": [
+        1
+      ],
+      "sha256": "af52bd74302569d191fb7069159234cf2e82960c1537830349a8e444e69d9d18"
+    },
+    {
+      "file": "Bedjan_page_56.txt",
+      "page": 56,
+      "parts": [
+        1
+      ],
+      "sha256": "7d9252c1040548b53680232b05f394fe44ac5ad593ca87de614e800ce1bc14e9"
+    },
+    {
+      "file": "Bedjan_page_57.txt",
+      "page": 57,
+      "parts": [
+        1
+      ],
+      "sha256": "bf2e72c437ff164050156762c49e097857ba270836d9745538de9308db48aff4"
+    },
+    {
+      "file": "Bedjan_page_58.txt",
+      "page": 58,
+      "parts": [
+        1
+      ],
+      "sha256": "195b4c14708a186d843f43838b5e8b77d5da68feddabc96c16ab4e72bfc893cf"
+    },
+    {
+      "file": "Bedjan_page_59.txt",
+      "page": 59,
+      "parts": [
+        1
+      ],
+      "sha256": "6b300ba3ad4c08be68113a077f56c278da8497414649d6dbc5c4f357e640128a"
+    },
+    {
+      "file": "Bedjan_page_60.txt",
+      "page": 60,
+      "parts": [
+        1
+      ],
+      "sha256": "fb5853a5ccb9846576109c7b50f570cdb4daba6a301bccb21fa6b2ad8d022ce7"
+    },
+    {
+      "file": "Bedjan_page_61.txt",
+      "page": 61,
+      "parts": [
+        1
+      ],
+      "sha256": "aa108a15e58cec80b78dd81d40875347119ffe2046032ac1da06796e4264a439"
+    },
+    {
+      "file": "Bedjan_page_62.txt",
+      "page": 62,
+      "parts": [
+        1
+      ],
+      "sha256": "aeed1de1da32e10b3add9c8fb5426a1e514dcaac9eb0b1e8183febcdbb0652e3"
+    },
+    {
+      "file": "Bedjan_page_63.txt",
+      "page": 63,
+      "parts": [
+        1
+      ],
+      "sha256": "72bafd65f954a76298773a63aa406b5e61eeca7e7af33af7320a24c92797d5ea"
+    },
+    {
+      "file": "Bedjan_page_64.txt",
+      "page": 64,
+      "parts": [
+        1
+      ],
+      "sha256": "55252758a5c5fe9f44018487d20979f48ef1bc736a8e07bed3740acd48fa852d"
+    },
+    {
+      "file": "Bedjan_page_65.txt",
+      "page": 65,
+      "parts": [
+        1
+      ],
+      "sha256": "d1859ecea809b186950367337d9b5c57bffea222dfcc3c292f98190658faf92b"
+    },
+    {
+      "file": "Bedjan_page_66.txt",
+      "page": 66,
+      "parts": [
+        1
+      ],
+      "sha256": "3d596ec4c7e3401903894586e8cf6a596e92fa2622b0e0624ae50507247c4484"
+    },
+    {
+      "file": "Bedjan_page_67.txt",
+      "page": 67,
+      "parts": [
+        1
+      ],
+      "sha256": "97c3beceecf60a800e14eb934e76e89454b11674042863343da639dc0e46e876"
+    },
+    {
+      "file": "Bedjan_page_68.txt",
+      "page": 68,
+      "parts": [
+        1
+      ],
+      "sha256": "1b0b8bc834f81fcc0e569c386e16be22c759f94e4cd9d8fade52b6860185aebd"
+    },
+    {
+      "file": "Bedjan_page_69.txt",
+      "page": 69,
+      "parts": [
+        1
+      ],
+      "sha256": "30c85b4b3423c45438a2aa91af0493c2806d52292e759a98a5b95e883d9a0181"
+    },
+    {
+      "file": "Bedjan_page_70.txt",
+      "page": 70,
+      "parts": [
+        1
+      ],
+      "sha256": "c5229db1db9d172817983775ededb0624a20b161d439140fa8bdf762b36f0fd7"
+    },
+    {
+      "file": "Bedjan_page_71.txt",
+      "page": 71,
+      "parts": [
+        1
+      ],
+      "sha256": "b40d7252e21a6527a5800ebe6baf6fcf0eeeae0f63e6451cccff40973fb2b4fd"
+    },
+    {
+      "file": "Bedjan_page_72.txt",
+      "page": 72,
+      "parts": [
+        1
+      ],
+      "sha256": "93e04823c16b27446da0c136355fe9e3fcedb38da44ad72118e4173fd5d65d18"
+    },
+    {
+      "file": "Bedjan_page_73.txt",
+      "page": 73,
+      "parts": [
+        1
+      ],
+      "sha256": "62c7b83c9031d80f1106077cb0a805469a084ffe69959530b14ff7207b6ea1ae"
+    },
+    {
+      "file": "Bedjan_page_74.txt",
+      "page": 74,
+      "parts": [
+        1
+      ],
+      "sha256": "2c34ec805ba055970f8892398ce3da4066bbac50d336a879127a2308d0aee6e4"
+    },
+    {
+      "file": "Bedjan_page_75.txt",
+      "page": 75,
+      "parts": [
+        1
+      ],
+      "sha256": "600c99475648e16aa9ca19d9f91a59637fd24207105609836bc03a491feb3af7"
+    },
+    {
+      "file": "Bedjan_page_76.txt",
+      "page": 76,
+      "parts": [
+        1
+      ],
+      "sha256": "581b0639ecfe0a3f5830633eda5dd85a4f829abcc0ec0afaf71a33c0c1207a52"
+    },
+    {
+      "file": "Bedjan_page_77.txt",
+      "page": 77,
+      "parts": [
+        1
+      ],
+      "sha256": "e0aff0ccc508de0f822cc05615ad0a1707ece608b2ce0e8e55732743123d60ec"
+    },
+    {
+      "file": "Bedjan_page_78.txt",
+      "page": 78,
+      "parts": [
+        1
+      ],
+      "sha256": "b3612ed609a6f35fc2ad45cb0a1a3442a0c421873f74310ca86cbf3f9bc1aef2"
+    },
+    {
+      "file": "Bedjan_page_79.txt",
+      "page": 79,
+      "parts": [
+        1
+      ],
+      "sha256": "d9fdedf3ade301a4db16fdace4e230f3a75fa6641f72a50228ce44be483cb341"
+    },
+    {
+      "file": "Bedjan_page_80.txt",
+      "page": 80,
+      "parts": [
+        1
+      ],
+      "sha256": "c5b33f27d2830de785ee165939da648a0dd6e62db8e9c916579ca0f64e0b6e3d"
+    },
+    {
+      "file": "Bedjan_page_81.txt",
+      "page": 81,
+      "parts": [
+        1
+      ],
+      "sha256": "727634c8db6b77a01ac712119396822d40c3ee505320defcb3e8d1ba49a63798"
+    },
+    {
+      "file": "Bedjan_page_82.txt",
+      "page": 82,
+      "parts": [
+        1
+      ],
+      "sha256": "f6422025f13c41cbb7ecd6902d5e30b8fca572605e3b84d9bccba88ae5fd73bd"
+    },
+    {
+      "file": "Bedjan_page_83.txt",
+      "page": 83,
+      "parts": [
+        1
+      ],
+      "sha256": "ee153f7a967a6155bb8e382604a16e207f99d7ea651e929dfacaf203f8ca0ae4"
+    },
+    {
+      "file": "Bedjan_page_84.txt",
+      "page": 84,
+      "parts": [
+        1
+      ],
+      "sha256": "875edf44cc7bae6fcc05c629ae7e2aecf3898f5a22548742a31f5d4983b6ed0a"
+    },
+    {
+      "file": "Bedjan_page_85.txt",
+      "page": 85,
+      "parts": [
+        1
+      ],
+      "sha256": "da797a1495851d8dc96c315c5eb880cbb906c56d5ac5c8068f1f9777b157e5b7"
+    },
+    {
+      "file": "Bedjan_page_86.txt",
+      "page": 86,
+      "parts": [
+        1
+      ],
+      "sha256": "1f75c0b54eadc559c2195a191a7e045b25e66e5673cad82e3855f22c29afe8a1"
+    },
+    {
+      "file": "Bedjan_page_87.txt",
+      "page": 87,
+      "parts": [
+        1
+      ],
+      "sha256": "d4b62c2d0b016b08fbecee2332956f27f2f2a9a82296aee5fa406a989a7b1a22"
+    },
+    {
+      "file": "Bedjan_page_88.txt",
+      "page": 88,
+      "parts": [
+        1
+      ],
+      "sha256": "91e9be5b4d8084d5e5905f6b36cd11c920fdb3c331aa8a5cc6e36e574a2b0161"
+    },
+    {
+      "file": "Bedjan_page_89.txt",
+      "page": 89,
+      "parts": [
+        1
+      ],
+      "sha256": "47802eebb393e2d238030d89663546d58fa750de827f73506b068e118d6e39b3"
+    },
+    {
+      "file": "Bedjan_page_90.txt",
+      "page": 90,
+      "parts": [
+        1
+      ],
+      "sha256": "128564a5ecad74d867b64d407d2f208d9a29dbb6d6430836f531ea166f3b61cc"
+    },
+    {
+      "file": "Bedjan_page_91.txt",
+      "page": 91,
+      "parts": [
+        1
+      ],
+      "sha256": "0c624be67c8dd3b7a243d9a904494e6e69d7385a169efaa4bffb25502161fdae"
+    },
+    {
+      "file": "Bedjan_page_92.txt",
+      "page": 92,
+      "parts": [
+        1
+      ],
+      "sha256": "cac7a9a3c81c0321b2dd10d86dd8aa7c71d54463179e8f6522f6ab759d94c5d4"
+    },
+    {
+      "file": "Bedjan_page_93.txt",
+      "page": 93,
+      "parts": [
+        1
+      ],
+      "sha256": "782e22b0784ad9308b5b312059cb00b560243847120c228118e0e2a133dcb5f1"
+    },
+    {
+      "file": "Bedjan_page_94.txt",
+      "page": 94,
+      "parts": [
+        1
+      ],
+      "sha256": "eddb25a33962eebffdabfa9e0b8afeb65356e23d903589af984d9e9236dbc400"
+    },
+    {
+      "file": "Bedjan_page_95.txt",
+      "page": 95,
+      "parts": [
+        1
+      ],
+      "sha256": "d9dfa11b8b3e6b5201e8ae78e40e9d03b405174c98b60817a81e799f8b467912"
+    },
+    {
+      "file": "Bedjan_page_96.txt",
+      "page": 96,
+      "parts": [
+        1
+      ],
+      "sha256": "0614f0c37df096c1c939f2d8bc6aef9592cffa969f49c79493b287dc6b802c93"
+    },
+    {
+      "file": "Bedjan_page_97.txt",
+      "page": 97,
+      "parts": [
+        1
+      ],
+      "sha256": "ac5e0bc1b6de84d4362c1126b3208bae8f96cfadf9021613c1865f9c054d1488"
+    },
+    {
+      "file": "Bedjan_page_98.txt",
+      "page": 98,
+      "parts": [
+        1
+      ],
+      "sha256": "78542b68e7300bffc59ea44e8aff45d77b7db706b099e2bf5276393e0870ae10"
+    },
+    {
+      "file": "Bedjan_page_99.txt",
+      "page": 99,
+      "parts": [
+        1
+      ],
+      "sha256": "6d4821c44c4faaddc45b7e3883fe4119fa2594a7850b21ab76d2ee2a59e7b7b6"
+    },
+    {
+      "file": "Bedjan_page_100.txt",
+      "page": 100,
+      "parts": [
+        1
+      ],
+      "sha256": "cb155594508fa7afabd92101b2ca02426ddc4c36a874584d2185b8a6d5c14b1a"
+    },
+    {
+      "file": "Bedjan_page_101.txt",
+      "page": 101,
+      "parts": [
+        1
+      ],
+      "sha256": "303b4945aacbcf57a4b3dbc7b706b9aa343f320379cb42b6e205cc88200379ad"
+    },
+    {
+      "file": "Bedjan_page_102.txt",
+      "page": 102,
+      "parts": [
+        1
+      ],
+      "sha256": "07d406833a91eaa9bb9d7a2ca0505ca223b5b02adae6f5ede534ad15570cf2cc"
+    },
+    {
+      "file": "Bedjan_page_103.txt",
+      "page": 103,
+      "parts": [
+        1
+      ],
+      "sha256": "91d69356da44f77325c5f13e77fedc70d2842625223171f979d1f77c7a2da34d"
+    },
+    {
+      "file": "Bedjan_page_104.txt",
+      "page": 104,
+      "parts": [
+        1
+      ],
+      "sha256": "e50586e981a40186cf16dc464ea6ad0e8d511eadc0f50d47f8b8e567303cbb25"
+    },
+    {
+      "file": "Bedjan_page_105.txt",
+      "page": 105,
+      "parts": [
+        1
+      ],
+      "sha256": "b52e5a80cae8d204c32cf025f4567898b7726105bb8c8f31a375e1e77140d2a9"
+    },
+    {
+      "file": "Bedjan_page_106.txt",
+      "page": 106,
+      "parts": [
+        1
+      ],
+      "sha256": "21fe2235200faf72bfcd9311e7db64acb6095e3a337ed3985fc39becb945ec00"
+    },
+    {
+      "file": "Bedjan_page_107.txt",
+      "page": 107,
+      "parts": [
+        1
+      ],
+      "sha256": "c4362a7e6261ebf03cd1d3eeb2180c4774c29b5e197ce6e9cfedb5af47d0888d"
+    },
+    {
+      "file": "Bedjan_page_108.txt",
+      "page": 108,
+      "parts": [
+        1
+      ],
+      "sha256": "27b892cc5f840ca9ae7f8c59168e78aac49637ad5e5c7d3493a0ea95c1661b37"
+    },
+    {
+      "file": "Bedjan_page_109.txt",
+      "page": 109,
+      "parts": [
+        1
+      ],
+      "sha256": "adfe73335c4779e64eea5cfcc9f733ac9fb3da350e3996c2985f77f1b53c1105"
+    },
+    {
+      "file": "Bedjan_page_110.txt",
+      "page": 110,
+      "parts": [
+        1
+      ],
+      "sha256": "5e8380e39c712b68d686c88f76b06e84bea0148941d95be2bfa9928b60a400f6"
+    },
+    {
+      "file": "Bedjan_page_111.txt",
+      "page": 111,
+      "parts": [
+        1
+      ],
+      "sha256": "d0991051bd7d513ecee8df900580453f163404b7404d570d71940516fe1b0536"
+    },
+    {
+      "file": "Bedjan_page_112.txt",
+      "page": 112,
+      "parts": [
+        1
+      ],
+      "sha256": "d5ed2b8ce824c678cc7ce2a17f37aa4d2abde45ab69e2b62f36d307d3c996052"
+    },
+    {
+      "file": "Bedjan_page_113.txt",
+      "page": 113,
+      "parts": [
+        1
+      ],
+      "sha256": "b6bdbd133bb7cbf8d170423e4bab352e6f0aca75f5a9c7ede7220e78f4e0c106"
+    },
+    {
+      "file": "Bedjan_page_114.txt",
+      "page": 114,
+      "parts": [
+        1
+      ],
+      "sha256": "3f5de6665ec551b52f2ed12bc27b21f0b90f049ba33e49dbb3a76fb0f33fd3de"
+    },
+    {
+      "file": "Bedjan_page_115.txt",
+      "page": 115,
+      "parts": [
+        1
+      ],
+      "sha256": "52842b0090bb084be0c5f1904f9624afdd7d689c7583f479fcc25eaa7d9d58c7"
+    },
+    {
+      "file": "Bedjan_page_116.txt",
+      "page": 116,
+      "parts": [
+        1
+      ],
+      "sha256": "9410ff4b4ce6353f829763654c81e60b5178035a876c003732a590e511130c26"
+    },
+    {
+      "file": "Bedjan_page_117.txt",
+      "page": 117,
+      "parts": [
+        1
+      ],
+      "sha256": "54f56ba4ec9173f1c72c772be32a83651082482636c19b9daca4a19fda1f5d47"
+    },
+    {
+      "file": "Bedjan_page_118.txt",
+      "page": 118,
+      "parts": [
+        1
+      ],
+      "sha256": "eb87c89a10b7628c974b01928a83a49e997c16de370d56722ab751ae006a0a5c"
+    },
+    {
+      "file": "Bedjan_page_119.txt",
+      "page": 119,
+      "parts": [
+        1
+      ],
+      "sha256": "3579695a28ec8cbaf470eadfd189da72f8f365989fa850a8be23b175ea0496c5"
+    },
+    {
+      "file": "Bedjan_page_120.txt",
+      "page": 120,
+      "parts": [
+        1
+      ],
+      "sha256": "afd5ef8b4e4285889e46ad1af441c5e49782fbe898ea5376244ee15915b36d50"
+    },
+    {
+      "file": "Bedjan_page_121.txt",
+      "page": 121,
+      "parts": [
+        1
+      ],
+      "sha256": "5a95918f8c8e372da5db842f72441fe987691697343c86f28d1b39e4a1e14c2c"
+    },
+    {
+      "file": "Bedjan_page_122.txt",
+      "page": 122,
+      "parts": [
+        1
+      ],
+      "sha256": "70c39db673eef57d772a79927f8159b98574dc3d8389475790459e833f858a38"
+    },
+    {
+      "file": "Bedjan_page_123.txt",
+      "page": 123,
+      "parts": [
+        1
+      ],
+      "sha256": "bea6f194b564add88551b47fa3380ef8b95f570a651f7124feafde4a3356665f"
+    },
+    {
+      "file": "Bedjan_page_124.txt",
+      "page": 124,
+      "parts": [
+        1
+      ],
+      "sha256": "e559669d66faf6522425d64d4b2e062c7ec209cc7e7392616def78d1f7129c4c"
+    },
+    {
+      "file": "Bedjan_page_125.txt",
+      "page": 125,
+      "parts": [
+        1
+      ],
+      "sha256": "a72b06585b9d688537d7d339ce3d567147fb1b65ea8d9490b6e61fafe5ee1121"
+    },
+    {
+      "file": "Bedjan_page_126.txt",
+      "page": 126,
+      "parts": [
+        1
+      ],
+      "sha256": "b22d690593d8c407fe00ee2853599e3b55d48518e794ce6264e3971c31d06d9c"
+    },
+    {
+      "file": "Bedjan_page_127.txt",
+      "page": 127,
+      "parts": [
+        1
+      ],
+      "sha256": "d651bda044459101be13c88dd5eee3bc979e88eb4ffaf1afcaa5751de0a4aa84"
+    },
+    {
+      "file": "Bedjan_page_128.txt",
+      "page": 128,
+      "parts": [
+        1
+      ],
+      "sha256": "9bb67fc9b5f92e49980258b3acda0a448d8b7f9a78046c82cb2d9ecb745bda0e"
+    },
+    {
+      "file": "Bedjan_page_129.txt",
+      "page": 129,
+      "parts": [
+        2
+      ],
+      "sha256": "272000a2503faa67f64a34c76be937fd9479d7f6643ef09d53e962ae6920e567"
+    },
+    {
+      "file": "Bedjan_page_130.txt",
+      "page": 130,
+      "parts": [
+        2
+      ],
+      "sha256": "a75eb03b0903e9d940fa5e0baae34acab591be74c252c696562c87c8b63125c7"
+    },
+    {
+      "file": "Bedjan_page_131.txt",
+      "page": 131,
+      "parts": [
+        2
+      ],
+      "sha256": "6e794a5c0b52b67afaf7ddf0f3cd8e5238a58c084041777a91eb7d07afadb605"
+    },
+    {
+      "file": "Bedjan_page_132.txt",
+      "page": 132,
+      "parts": [
+        2
+      ],
+      "sha256": "3f108df3967061f43e95a56280583b3a5c7daaf604c64ca9363522032017cad0"
+    },
+    {
+      "file": "Bedjan_page_133.txt",
+      "page": 133,
+      "parts": [
+        2
+      ],
+      "sha256": "9872e49c27f1b405147140ddb477d01f2e1fd0293791713f3cf4229f4b67d465"
+    },
+    {
+      "file": "Bedjan_page_134.txt",
+      "page": 134,
+      "parts": [
+        2
+      ],
+      "sha256": "3a4e394815af223a339672da94a8230f28104e0f7ba354f3ba3a13e33e2fdbe0"
+    },
+    {
+      "file": "Bedjan_page_135.txt",
+      "page": 135,
+      "parts": [
+        2
+      ],
+      "sha256": "ce0ba133065893b8a95e9b3f40afab47b454ab7c74912379254984a8345b6ffc"
+    },
+    {
+      "file": "Bedjan_page_136.txt",
+      "page": 136,
+      "parts": [
+        2
+      ],
+      "sha256": "d8c7f55765db7670175e4a37924ad5ef28f074a625c9f73e6c7c83182a55370b"
+    },
+    {
+      "file": "Bedjan_page_137.txt",
+      "page": 137,
+      "parts": [
+        2
+      ],
+      "sha256": "a8d9856547183fe97b58a3bcf82e123d0ebad5ef5f67ea7167c6710cc67c6832"
+    },
+    {
+      "file": "Bedjan_page_138.txt",
+      "page": 138,
+      "parts": [
+        2
+      ],
+      "sha256": "743b52e8f529ac2c983ff032efa67b16e73b53c66b2af17e129861b2de9ec8e4"
+    },
+    {
+      "file": "Bedjan_page_139.txt",
+      "page": 139,
+      "parts": [
+        2
+      ],
+      "sha256": "3c6d5fde5b89f25d0095ad93bcf102e9e9b52b1d4a0ea5d08cb1dbfb02f28be3"
+    },
+    {
+      "file": "Bedjan_page_140.txt",
+      "page": 140,
+      "parts": [
+        2
+      ],
+      "sha256": "0f44665b6fd699c46b00cb89d8130fd2959dbe2f29f3ab105dd24f7f57a3b070"
+    },
+    {
+      "file": "Bedjan_page_141.txt",
+      "page": 141,
+      "parts": [
+        2
+      ],
+      "sha256": "36df01bd81d67cde7e23e04b5674ab79526af9ff7e4abef3678333d989854437"
+    },
+    {
+      "file": "Bedjan_page_142.txt",
+      "page": 142,
+      "parts": [
+        2
+      ],
+      "sha256": "fbe0d00643fa8a0a6d570145ba4f20adcc23e5a7b6a17e93bb2dde06479aae28"
+    },
+    {
+      "file": "Bedjan_page_143.txt",
+      "page": 143,
+      "parts": [
+        2
+      ],
+      "sha256": "ca3df36c24dc764b9518f4f5aced3b404d3efe528ced8df8bc39e91fa92009c6"
+    },
+    {
+      "file": "Bedjan_page_144.txt",
+      "page": 144,
+      "parts": [
+        2
+      ],
+      "sha256": "186d4e416d899e959e2997a270be2e7a99ef61f86b44cc062fd1d59ca653b57b"
+    },
+    {
+      "file": "Bedjan_page_145.txt",
+      "page": 145,
+      "parts": [
+        2
+      ],
+      "sha256": "2bfe8c871495bf70f0c31f40775d1bafd35c94e064205a7bc94d3c5cacc7b8a3"
+    },
+    {
+      "file": "Bedjan_page_146.txt",
+      "page": 146,
+      "parts": [
+        2
+      ],
+      "sha256": "8b93b6ff4190738482919b0f5c05dd8f0790d458c93c304e34a7ecdd910d8ce7"
+    },
+    {
+      "file": "Bedjan_page_147.txt",
+      "page": 147,
+      "parts": [
+        2
+      ],
+      "sha256": "ca8bc771cbd11576e5240a20945b95b6ba669d5a3fa9606e81020b0998749eaf"
+    },
+    {
+      "file": "Bedjan_page_148.txt",
+      "page": 148,
+      "parts": [
+        2
+      ],
+      "sha256": "1721520d6b874aceef2cae53868c240540012fa2547cab6c5b7c1ba7af30f596"
+    },
+    {
+      "file": "Bedjan_page_149.txt",
+      "page": 149,
+      "parts": [
+        2
+      ],
+      "sha256": "0a4b7a9725c3d556c7a25e409aa1343cf90bd0ed54be45deef6c4aef176cdae6"
+    },
+    {
+      "file": "Bedjan_page_150.txt",
+      "page": 150,
+      "parts": [
+        2
+      ],
+      "sha256": "cb86358fc26a713e5ab2fd5a6f2f2f75948cc663a69f935a4ad473cea51b16dc"
+    },
+    {
+      "file": "Bedjan_page_151.txt",
+      "page": 151,
+      "parts": [
+        2
+      ],
+      "sha256": "86b6d4346b257832ad4f11a232c2517436d347eb67466d3f9ce28de430a924be"
+    },
+    {
+      "file": "Bedjan_page_152.txt",
+      "page": 152,
+      "parts": [
+        2
+      ],
+      "sha256": "5a008e820b7470f0000349b35251273253588802ad760681046303a6c187ad5e"
+    },
+    {
+      "file": "Bedjan_page_153.txt",
+      "page": 153,
+      "parts": [
+        2
+      ],
+      "sha256": "27e3cee51ae08df6a5f16923ddffd35f0e110904b08d1630af5a278cc18ce983"
+    },
+    {
+      "file": "Bedjan_page_154.txt",
+      "page": 154,
+      "parts": [
+        2
+      ],
+      "sha256": "fe6e21ac0cac9765f8cb89becfaf0986d135dd33f6039e4211514a6e5cfa68a3"
+    },
+    {
+      "file": "Bedjan_page_155.txt",
+      "page": 155,
+      "parts": [
+        2
+      ],
+      "sha256": "728c9a7bf14b1e53495f9c73b7d1749a3f8734a6619f02bc4a12b264beb74b12"
+    },
+    {
+      "file": "Bedjan_page_156.txt",
+      "page": 156,
+      "parts": [
+        2
+      ],
+      "sha256": "e97818a3cd3ae6bda700687761668906bf197b34527adb1c364ae4b5ac9855da"
+    },
+    {
+      "file": "Bedjan_page_157.txt",
+      "page": 157,
+      "parts": [
+        2
+      ],
+      "sha256": "41f6326ee856e22e3d55b5d549cd226b79821cda4ac5f1e278c66387915b1d89"
+    },
+    {
+      "file": "Bedjan_page_158.txt",
+      "page": 158,
+      "parts": [
+        2
+      ],
+      "sha256": "ba2e5fa153a0b5f32abee1018441076a664e045ec8247d7162172cd07de1605e"
+    },
+    {
+      "file": "Bedjan_page_159.txt",
+      "page": 159,
+      "parts": [
+        2
+      ],
+      "sha256": "67d90224b1708354d134541199019705fde3be158c3a06935ee00dcdc717d36d"
+    },
+    {
+      "file": "Bedjan_page_160.txt",
+      "page": 160,
+      "parts": [
+        2
+      ],
+      "sha256": "0c2bcf2e04b5c0becb433c666f088fa0690569d1d6e096b084d114065a637d41"
+    },
+    {
+      "file": "Bedjan_page_161.txt",
+      "page": 161,
+      "parts": [
+        2
+      ],
+      "sha256": "64d0f6db77e0218fa7df7855608d8ddf2793f9d741d47146abf22968b15759d5"
+    },
+    {
+      "file": "Bedjan_page_162.txt",
+      "page": 162,
+      "parts": [
+        2
+      ],
+      "sha256": "d7b2a8d0978c01b29f40f80ec77bded01c6f66ef709755df5b52ee6123b6cd49"
+    },
+    {
+      "file": "Bedjan_page_163.txt",
+      "page": 163,
+      "parts": [
+        2
+      ],
+      "sha256": "0d4c65d8f5e29988e6edefb41c0c40f9c7523910c86c1164ce4bb25da1f82e56"
+    },
+    {
+      "file": "Bedjan_page_164.txt",
+      "page": 164,
+      "parts": [
+        2
+      ],
+      "sha256": "0bd3079a728e6c9095ec451d08395d2dde7f2d427e0f733fe2d9bd231e7812e6"
+    },
+    {
+      "file": "Bedjan_page_165.txt",
+      "page": 165,
+      "parts": [
+        2
+      ],
+      "sha256": "c68c4259d5a802f03512c158455753ee7c694a5492886f585f8f016d18f611c9"
+    },
+    {
+      "file": "Bedjan_page_166.txt",
+      "page": 166,
+      "parts": [
+        2
+      ],
+      "sha256": "4ac111658c6810da99d1ae177339674ae8d4147fcfa6e4dd3bf1ec3718161985"
+    },
+    {
+      "file": "Bedjan_page_167.txt",
+      "page": 167,
+      "parts": [
+        2
+      ],
+      "sha256": "82a3b16076698cbf5dc75468c00a3974140ea51076cc8dd47c3722e9a3f24730"
+    },
+    {
+      "file": "Bedjan_page_168.txt",
+      "page": 168,
+      "parts": [
+        2
+      ],
+      "sha256": "7c3aba577c43c66e2cc43bdf2a4d316a83ad81a8970cb95a06c4743f97c7f820"
+    },
+    {
+      "file": "Bedjan_page_169.txt",
+      "page": 169,
+      "parts": [
+        2
+      ],
+      "sha256": "7b42be89fe3547f072bbd5d4944cdd9a4a9fec4c5254cfa6c936c408e63639c8"
+    },
+    {
+      "file": "Bedjan_page_170.txt",
+      "page": 170,
+      "parts": [
+        2
+      ],
+      "sha256": "c91cfc8a74724f3fadb42495781c3f0b4a4ee9a1e552a7034ac4d0f5382d9e11"
+    },
+    {
+      "file": "Bedjan_page_171.txt",
+      "page": 171,
+      "parts": [
+        2
+      ],
+      "sha256": "12efb876e5d036593109ec73fd586a46dc5b6d85957208a394bea9bd977d2e64"
+    },
+    {
+      "file": "Bedjan_page_172.txt",
+      "page": 172,
+      "parts": [
+        2
+      ],
+      "sha256": "c698982ae2f034614f01b22b04d910df1380eaabb2015e5cce951e3aaa890331"
+    },
+    {
+      "file": "Bedjan_page_173.txt",
+      "page": 173,
+      "parts": [
+        2
+      ],
+      "sha256": "5513301ad4505b13a91827220878906c757581e5b69f298125c94439c7031f46"
+    },
+    {
+      "file": "Bedjan_page_174.txt",
+      "page": 174,
+      "parts": [
+        2
+      ],
+      "sha256": "4f7af6900828a574c23e8d4f9d7243980c6d90599a934add9a14a684d5e3c426"
+    },
+    {
+      "file": "Bedjan_page_175.txt",
+      "page": 175,
+      "parts": [
+        2
+      ],
+      "sha256": "6ce7cc318a1fe3e0853a507d84d208c02d0dce6d1465ab60aa04a10625154d21"
+    },
+    {
+      "file": "Bedjan_page_176.txt",
+      "page": 176,
+      "parts": [
+        2
+      ],
+      "sha256": "670b036c9e9622afc5e494421b77f7b7399ea3e9be2063ba3495330b83fb43a0"
+    },
+    {
+      "file": "Bedjan_page_177.txt",
+      "page": 177,
+      "parts": [
+        2
+      ],
+      "sha256": "3dce1e89eff4dcc41769e2df07c2c8c866c47a2a3edf2be9289a78205bc8598a"
+    },
+    {
+      "file": "Bedjan_page_178.txt",
+      "page": 178,
+      "parts": [
+        2
+      ],
+      "sha256": "eb727082b0bd35eaa3db2ee62480e2458010786e8db983ea2e8784b63bd3b606"
+    },
+    {
+      "file": "Bedjan_page_179.txt",
+      "page": 179,
+      "parts": [
+        2
+      ],
+      "sha256": "8b15938e689613a296f942d1c5bc6899870ec47f811bbb5048c7a0099e9d1580"
+    },
+    {
+      "file": "Bedjan_page_180.txt",
+      "page": 180,
+      "parts": [
+        2
+      ],
+      "sha256": "35ff446765d6d36725ee0a97a5db1b51c6fc9153afed32d090ab52f563eff091"
+    },
+    {
+      "file": "Bedjan_page_181.txt",
+      "page": 181,
+      "parts": [
+        2
+      ],
+      "sha256": "c5fcf3f0f2d71cbd93e45d96f6117425df4211af6a75753a77d66ef2605256d4"
+    },
+    {
+      "file": "Bedjan_page_182.txt",
+      "page": 182,
+      "parts": [
+        2
+      ],
+      "sha256": "67d9a1d947127fd65c2e9c7d6c6243d815b32b03e9179675ebd31f9ddbe5e2a1"
+    },
+    {
+      "file": "Bedjan_page_183.txt",
+      "page": 183,
+      "parts": [
+        2
+      ],
+      "sha256": "f470ad762e1f185b3860f6bfeb3c5d31051aa8561e1a4a075cd091e7be720118"
+    },
+    {
+      "file": "Bedjan_page_184.txt",
+      "page": 184,
+      "parts": [
+        2
+      ],
+      "sha256": "b0e4b4fb560e3dde01dad71dc0c192768e87a718133c943a227f5ddfb5ecb721"
+    },
+    {
+      "file": "Bedjan_page_185.txt",
+      "page": 185,
+      "parts": [
+        2
+      ],
+      "sha256": "e4f3edd407d3550fbd857009d16ce6e40792ba61d18a381aaba569ba7d707e5a"
+    },
+    {
+      "file": "Bedjan_page_186.txt",
+      "page": 186,
+      "parts": [
+        2
+      ],
+      "sha256": "8eb1f59924f9abbf73df9a8ba2d2220cdf5e3291d6125783713b32f350996496"
+    },
+    {
+      "file": "Bedjan_page_187.txt",
+      "page": 187,
+      "parts": [
+        2
+      ],
+      "sha256": "fdaba644f1e27e4e50d32f2d3253896fef2ca9aef4f6ef08708c645922542e36"
+    },
+    {
+      "file": "Bedjan_page_188.txt",
+      "page": 188,
+      "parts": [
+        2
+      ],
+      "sha256": "e63aa09d90d6c842aa55c752d8bb5f8628ca47a08687130fbe241001925b689d"
+    },
+    {
+      "file": "Bedjan_page_189.txt",
+      "page": 189,
+      "parts": [
+        2
+      ],
+      "sha256": "61b8a874f430dfecd7133568d02a8314c3460ded6dca799891c34bac85eaacb5"
+    },
+    {
+      "file": "Bedjan_page_190.txt",
+      "page": 190,
+      "parts": [
+        2
+      ],
+      "sha256": "6ff3dfa28b28168002859aa125bd32bfd01e8b3edbf69ecc5bb273c52b8ae047"
+    },
+    {
+      "file": "Bedjan_page_191.txt",
+      "page": 191,
+      "parts": [
+        2
+      ],
+      "sha256": "3d7924b07aab6fa039edef84b221f424de4493e2e8ba150d91ced58effd86b6a"
+    },
+    {
+      "file": "Bedjan_page_192.txt",
+      "page": 192,
+      "parts": [
+        2
+      ],
+      "sha256": "afd1a15c986a9ee455cc17a2506a09066f3c086b34724980ed36e38d8726b8b3"
+    },
+    {
+      "file": "Bedjan_page_193.txt",
+      "page": 193,
+      "parts": [
+        2
+      ],
+      "sha256": "cefc1666fe92554c7a4398ac77198ccb851f99212919d756e4e127249d0f06cf"
+    },
+    {
+      "file": "Bedjan_page_194.txt",
+      "page": 194,
+      "parts": [
+        2
+      ],
+      "sha256": "9f80d3a438ab4d1c09b0e426e9865d11e8e923f1cba7e0634f7fd74fedc22aa7"
+    },
+    {
+      "file": "Bedjan_page_195.txt",
+      "page": 195,
+      "parts": [
+        2
+      ],
+      "sha256": "93bd1512de61982ce78c5feac25403624c4bd1db0cabf7261632e2db934a1bc2"
+    },
+    {
+      "file": "Bedjan_page_196.txt",
+      "page": 196,
+      "parts": [
+        2
+      ],
+      "sha256": "ee8d28f58a034e863da5e190da050afd33dfae129fa1926793ad9a81ec01eda7"
+    },
+    {
+      "file": "Bedjan_page_197.txt",
+      "page": 197,
+      "parts": [
+        2
+      ],
+      "sha256": "66b37865ccee6129d8e26d6ace1c1fc3408ddc0efa1647e29ca7e801754d1ce6"
+    },
+    {
+      "file": "Bedjan_page_198.txt",
+      "page": 198,
+      "parts": [
+        2
+      ],
+      "sha256": "f44115c45543f9fa15335fb79cb1ea9726e9c7fdb1a5cb046313991bfa7f9d43"
+    },
+    {
+      "file": "Bedjan_page_199.txt",
+      "page": 199,
+      "parts": [
+        2
+      ],
+      "sha256": "f6497cf7af48611421448179e6b458147a20b85ca51bf0204f4710d66ee5420c"
+    },
+    {
+      "file": "Bedjan_page_200.txt",
+      "page": 200,
+      "parts": [
+        2
+      ],
+      "sha256": "901323d1b85a1f613fd8faa27e6376fab14291d03b53dd7ecb37da69322cd7c6"
+    },
+    {
+      "file": "Bedjan_page_201.txt",
+      "page": 201,
+      "parts": [
+        2
+      ],
+      "sha256": "a96bd41fc08842944cb6420a78e7339bb861c2ee6d668efa2b49f67bf436145d"
+    },
+    {
+      "file": "Bedjan_page_202.txt",
+      "page": 202,
+      "parts": [
+        2
+      ],
+      "sha256": "ca1b3f8760a5c3ed3a46a85d97b096907658274cf4b5e94821fab9ac6120d26d"
+    },
+    {
+      "file": "Bedjan_page_203.txt",
+      "page": 203,
+      "parts": [
+        2
+      ],
+      "sha256": "e4aa0c15a35dfa5420de3a394b072779293a8e66d23eebf195f34ef0d6e3bb76"
+    },
+    {
+      "file": "Bedjan_page_204.txt",
+      "page": 204,
+      "parts": [
+        2
+      ],
+      "sha256": "40618056db7ffa48833c541bdf96ecfb1b1b8082bf2ecb047d73b84e731dd22e"
+    },
+    {
+      "file": "Bedjan_page_205.txt",
+      "page": 205,
+      "parts": [
+        2
+      ],
+      "sha256": "b0aabd131842e70083f14ed994af3edea3fc94e175d4acca1d3b1e6a590b4964"
+    },
+    {
+      "file": "Bedjan_page_206.txt",
+      "page": 206,
+      "parts": [
+        2
+      ],
+      "sha256": "a81c0db69fd9b96badb9da5151e2998a5f67eea6267cde756b9669d23edba696"
+    },
+    {
+      "file": "Bedjan_page_207.txt",
+      "page": 207,
+      "parts": [
+        2
+      ],
+      "sha256": "36cdb6de174f4cbc8bf7f891e3b7993645ae3a71b6bbb57a95c949f30a448a09"
+    },
+    {
+      "file": "Bedjan_page_208.txt",
+      "page": 208,
+      "parts": [
+        2
+      ],
+      "sha256": "7480303695874c3a7a156fd8e7a520fb7f6678868aa2dd505c011c2c09077f01"
+    },
+    {
+      "file": "Bedjan_page_209.txt",
+      "page": 209,
+      "parts": [
+        2
+      ],
+      "sha256": "24a382aa57d5c382a02d8baecfb69f8eb4316b27d9f7f082c378435d4b55eb9a"
+    },
+    {
+      "file": "Bedjan_page_210.txt",
+      "page": 210,
+      "parts": [
+        2
+      ],
+      "sha256": "2c314d574de87c67e91308e3b97fbcefa23643119b425d5be22230b77bad2fef"
+    },
+    {
+      "file": "Bedjan_page_211.txt",
+      "page": 211,
+      "parts": [
+        2
+      ],
+      "sha256": "bdc4d226836476e91deaac0b02afd6aeedc3adddb7a048ad63b0706da122f96b"
+    },
+    {
+      "file": "Bedjan_page_212.txt",
+      "page": 212,
+      "parts": [
+        2
+      ],
+      "sha256": "9973abcb71adb1a49410202a61776936d7d83b45a4b78d3ab3f072cd2f6b2111"
+    },
+    {
+      "file": "Bedjan_page_213.txt",
+      "page": 213,
+      "parts": [
+        2
+      ],
+      "sha256": "6e65e296565c2e57874d8276107c4d3127527ec094cfa300cb62e166efb7e919"
+    },
+    {
+      "file": "Bedjan_page_214.txt",
+      "page": 214,
+      "parts": [
+        2
+      ],
+      "sha256": "72e4fe645c212c53f174db3d5580322e3407b7d4850091c8d8e2e487c6789d3f"
+    },
+    {
+      "file": "Bedjan_page_215.txt",
+      "page": 215,
+      "parts": [
+        2
+      ],
+      "sha256": "e1875314855c37aa38c16f1e764346e98ea86c64ea5b666c3841dbfcadfc651e"
+    },
+    {
+      "file": "Bedjan_page_216.txt",
+      "page": 216,
+      "parts": [
+        2
+      ],
+      "sha256": "a68f076425edd51658915fbac53ff82d4340fb24e334184d973aa0fe7bec6335"
+    },
+    {
+      "file": "Bedjan_page_217.txt",
+      "page": 217,
+      "parts": [
+        2
+      ],
+      "sha256": "0eb27b37b52a62991b9d420cce83b730c81d9d092988da71a0e7ee3708226486"
+    },
+    {
+      "file": "Bedjan_page_218.txt",
+      "page": 218,
+      "parts": [
+        2
+      ],
+      "sha256": "0a4d8cc2c689afd234a7aee315153f7f4429c07f30dd685a60efa52bc0573961"
+    },
+    {
+      "file": "Bedjan_page_219.txt",
+      "page": 219,
+      "parts": [
+        2
+      ],
+      "sha256": "7415bf8a82fa967ee31e665f419773391e6778c7cde00b57c67b938897d34bda"
+    },
+    {
+      "file": "Bedjan_page_220.txt",
+      "page": 220,
+      "parts": [
+        2
+      ],
+      "sha256": "bdc43fbdcb1dc4a1d8d6a773e1243b859385d1a160fce74f4748dcb2537cf8d9"
+    },
+    {
+      "file": "Bedjan_page_221.txt",
+      "page": 221,
+      "parts": [
+        2
+      ],
+      "sha256": "0f35717969d76cd7debbfe2756a0e849e72bd848e3ad653cb7ada53128812b85"
+    },
+    {
+      "file": "Bedjan_page_222.txt",
+      "page": 222,
+      "parts": [
+        2
+      ],
+      "sha256": "c278d9ab29b6f60b6b6c28433682b8ad17fa9fd6bb519e3b76496b9612004ec8"
+    },
+    {
+      "file": "Bedjan_page_223.txt",
+      "page": 223,
+      "parts": [
+        2
+      ],
+      "sha256": "3a10ba366657edf6d725269967691d12317f7343032720605301c227772d799a"
+    },
+    {
+      "file": "Bedjan_page_224.txt",
+      "page": 224,
+      "parts": [
+        2
+      ],
+      "sha256": "365562972e609108f0e4104bf9340e9cca0d7579cdd5d0945836cf7afd567478"
+    },
+    {
+      "file": "Bedjan_page_225.txt",
+      "page": 225,
+      "parts": [
+        2
+      ],
+      "sha256": "46da3e4f83baf46c15423c78d930b19ac91592553cd0039f4902f215d751ba41"
+    },
+    {
+      "file": "Bedjan_page_226.txt",
+      "page": 226,
+      "parts": [
+        2
+      ],
+      "sha256": "7dbf1b4ec53a14bc5f300e213a863534aba16e22e0e9e372ade2af7d3f9294b6"
+    },
+    {
+      "file": "Bedjan_page_227.txt",
+      "page": 227,
+      "parts": [
+        2
+      ],
+      "sha256": "56381ef58ed78c22443cafc3b93369f2c89f9e8d32a62553f47fb5f525f6e13e"
+    },
+    {
+      "file": "Bedjan_page_228.txt",
+      "page": 228,
+      "parts": [
+        2
+      ],
+      "sha256": "65a4d72919b26d87a5b4f7d92678d3c10e09a0035f7c0c5512f891c64cc0f623"
+    },
+    {
+      "file": "Bedjan_page_229.txt",
+      "page": 229,
+      "parts": [
+        2
+      ],
+      "sha256": "0fea529dda88fae8d4e37a87d4ffbf74d025bbb5bcfffdd308e85d241a5a2b7e"
+    },
+    {
+      "file": "Bedjan_page_230.txt",
+      "page": 230,
+      "parts": [
+        2
+      ],
+      "sha256": "f84373e09f1daeca1ac7d544fae24730170154400d36b8e17ce02d4eeed73a78"
+    },
+    {
+      "file": "Bedjan_page_231.txt",
+      "page": 231,
+      "parts": [
+        2
+      ],
+      "sha256": "3e750ea80ae4c2316ebe7efe339a379781822b83313cd1e2b9d0f5a42c382f44"
+    },
+    {
+      "file": "Bedjan_page_232.txt",
+      "page": 232,
+      "parts": [
+        2
+      ],
+      "sha256": "ef896e71528d57cf673b16c0cd98ea9787310b934853878c3e1e2460481c8593"
+    },
+    {
+      "file": "Bedjan_page_233.txt",
+      "page": 233,
+      "parts": [
+        2
+      ],
+      "sha256": "1cbc446b7f154f19f02f36b5753d25e0aa50849717dacee673f599d170e6cccc"
+    },
+    {
+      "file": "Bedjan_page_234.txt",
+      "page": 234,
+      "parts": [
+        2
+      ],
+      "sha256": "90f5dd77984d4d5615c897d7b4c1a540751ed5129b70acf99029059e1c6449a8"
+    },
+    {
+      "file": "Bedjan_page_235.txt",
+      "page": 235,
+      "parts": [
+        2
+      ],
+      "sha256": "796898cafd031e238b11f71c9c5f10c50392f3b4def9cefdad5022c4eebfa0b3"
+    },
+    {
+      "file": "Bedjan_page_236.txt",
+      "page": 236,
+      "parts": [
+        2
+      ],
+      "sha256": "863d6a56ef751dd2d6b5c1e7e4e5f19e74413fbee6cd769a3fa54853f4fd5b54"
+    },
+    {
+      "file": "Bedjan_page_237.txt",
+      "page": 237,
+      "parts": [
+        2
+      ],
+      "sha256": "2c0c9e83240688f9ace4df09753aa62a4fab0949b42f96aef705ae518815750a"
+    },
+    {
+      "file": "Bedjan_page_238.txt",
+      "page": 238,
+      "parts": [
+        2
+      ],
+      "sha256": "a34a218b33e0a64cbae1e087a54cfb5f8f8ab8f84ebd341f522e2e4a4f8e599d"
+    },
+    {
+      "file": "Bedjan_page_239.txt",
+      "page": 239,
+      "parts": [
+        2
+      ],
+      "sha256": "26cd08588877520dc4ea3e6d0118a59b98243d6e9fe698272797ec09471f358b"
+    },
+    {
+      "file": "Bedjan_page_240.txt",
+      "page": 240,
+      "parts": [
+        2
+      ],
+      "sha256": "ebbaa1a3050e7c08a67326c2acb790b5bf7f243b6386f60a092093bcf6c01922"
+    },
+    {
+      "file": "Bedjan_page_241.txt",
+      "page": 241,
+      "parts": [
+        2
+      ],
+      "sha256": "8f8dcd8749d45ce6b01cf8e48f5526a1833fc9948686e3db89b4922e1c31c4a3"
+    },
+    {
+      "file": "Bedjan_page_242.txt",
+      "page": 242,
+      "parts": [
+        2
+      ],
+      "sha256": "cdfa0f6e708ce682deca7fe4e685289be62eef9346b7f9bea6ff66e7ef2e61dc"
+    },
+    {
+      "file": "Bedjan_page_243.txt",
+      "page": 243,
+      "parts": [
+        2
+      ],
+      "sha256": "b75cd2aac042587ad0f40b9f5e13d39f36f24eb75cf1564bf31a011843f9ffe5"
+    },
+    {
+      "file": "Bedjan_page_244.txt",
+      "page": 244,
+      "parts": [
+        2
+      ],
+      "sha256": "ed2974b35fa7fda3b40d06eec1ab46772944f212248355ac2248e04aa6063575"
+    },
+    {
+      "file": "Bedjan_page_245.txt",
+      "page": 245,
+      "parts": [
+        2
+      ],
+      "sha256": "525003592eae7800548cbd89f629bf951571aa24409e1523455e6a3118ff6029"
+    },
+    {
+      "file": "Bedjan_page_246.txt",
+      "page": 246,
+      "parts": [
+        2
+      ],
+      "sha256": "60400bcbb1ec14d7354b38aca041a9bd3a7f988640affb25417eefcf5119b2a7"
+    },
+    {
+      "file": "Bedjan_page_247.txt",
+      "page": 247,
+      "parts": [
+        2
+      ],
+      "sha256": "ae733452c8b6ae1db1a158925c181de268e3b300af48a490aef8d412dedb92bf"
+    },
+    {
+      "file": "Bedjan_page_248.txt",
+      "page": 248,
+      "parts": [
+        2
+      ],
+      "sha256": "6d9075e3ecf3a1d2eb4824fca57ed87ece0b97b90ff161748bacd1fc8b3c2209"
+    },
+    {
+      "file": "Bedjan_page_249.txt",
+      "page": 249,
+      "parts": [
+        2
+      ],
+      "sha256": "dbd7dbb29890037f926208d662975d10bb4d07780e2d8703ec31ffa1d92f4d98"
+    },
+    {
+      "file": "Bedjan_page_250.txt",
+      "page": 250,
+      "parts": [
+        2
+      ],
+      "sha256": "466d517adc118696a114e89decfd7b96608794782530f6e5866833f958c8ee7a"
+    },
+    {
+      "file": "Bedjan_page_251.txt",
+      "page": 251,
+      "parts": [
+        2
+      ],
+      "sha256": "5d4094b807d251b9d696160fd9e3eebe3ec2cbd00af26aa94e59c571a496dfbe"
+    },
+    {
+      "file": "Bedjan_page_252.txt",
+      "page": 252,
+      "parts": [
+        2
+      ],
+      "sha256": "a35463322227230ef28c6d8cc271c6aeebf736eecedd2c2aba9e8f9bf45360bf"
+    },
+    {
+      "file": "Bedjan_page_253.txt",
+      "page": 253,
+      "parts": [
+        2
+      ],
+      "sha256": "94a68fb883a3e75e2c87f6b247fa6fc86bb03c8178a4441c754197c4c5bf5ffe"
+    },
+    {
+      "file": "Bedjan_page_254.txt",
+      "page": 254,
+      "parts": [
+        2
+      ],
+      "sha256": "7d8668f0df47646a713b663ce649ca48273444a0ff158e34c02e5800aed3f281"
+    },
+    {
+      "file": "Bedjan_page_255.txt",
+      "page": 255,
+      "parts": [
+        2
+      ],
+      "sha256": "517e679527e95dc3a8683576af5fd18e2a8f6ff0c66f7ca8b29d129f1e92c982"
+    },
+    {
+      "file": "Bedjan_page_256.txt",
+      "page": 256,
+      "parts": [
+        2
+      ],
+      "sha256": "c2ab3b8d56befba4a5c8f55a14c92227deb6569f7e2e11f7a502adecb785e8bf"
+    },
+    {
+      "file": "Bedjan_page_257.txt",
+      "page": 257,
+      "parts": [
+        3
+      ],
+      "sha256": "f475288f791584c1e71aa35f75297e0009dea50656209338293a13d1eba7e264"
+    },
+    {
+      "file": "Bedjan_page_258.txt",
+      "page": 258,
+      "parts": [
+        3
+      ],
+      "sha256": "891765f923f564720e11b050fc4bf79e3121c4f2f36845256220ee62d1ef9559"
+    },
+    {
+      "file": "Bedjan_page_259.txt",
+      "page": 259,
+      "parts": [
+        3
+      ],
+      "sha256": "2e9a89aa25925aa5abeedd2f627f63e1eaef50f7b3047c4a798b7d91bbadee64"
+    },
+    {
+      "file": "Bedjan_page_260.txt",
+      "page": 260,
+      "parts": [
+        3
+      ],
+      "sha256": "9101dd0441ca7de6f841d37e5bfe1a7aea8d367a3dcc0cea617f0942eda46317"
+    },
+    {
+      "file": "Bedjan_page_261.txt",
+      "page": 261,
+      "parts": [
+        3
+      ],
+      "sha256": "9afc35e5c28e700fc325471b4eb38e39cb2d66d7c6821a475e09f529021e841c"
+    },
+    {
+      "file": "Bedjan_page_262.txt",
+      "page": 262,
+      "parts": [
+        3
+      ],
+      "sha256": "5727c7841cf3b501945d73035ae5d4f56a08110b7584e32b1379647e804f33ef"
+    },
+    {
+      "file": "Bedjan_page_263.txt",
+      "page": 263,
+      "parts": [
+        3
+      ],
+      "sha256": "ca01df4b8d572f491ddd9ab4d168c1bd127b19d4ff590b318ece5d0d9ec1caf8"
+    },
+    {
+      "file": "Bedjan_page_264.txt",
+      "page": 264,
+      "parts": [
+        3
+      ],
+      "sha256": "99ecedca063bfd0e236bd62c3a3b17920a7fbdf0661bd6011acfb344200ee3c8"
+    },
+    {
+      "file": "Bedjan_page_265.txt",
+      "page": 265,
+      "parts": [
+        3
+      ],
+      "sha256": "f161690a8fd249a4e8662d10fa05a0b52f44b94f9d4eadee6b329e55e4eac13b"
+    },
+    {
+      "file": "Bedjan_page_266.txt",
+      "page": 266,
+      "parts": [
+        3
+      ],
+      "sha256": "b8aea1af6dfd99b8db58dc8f727414559370abb5b41a43fce99395b9233e6c46"
+    },
+    {
+      "file": "Bedjan_page_267.txt",
+      "page": 267,
+      "parts": [
+        3
+      ],
+      "sha256": "992bdb77a7185621be1eee80785be5f78dcc317276f6ba8b2fb99f1dff38a5d7"
+    },
+    {
+      "file": "Bedjan_page_268.txt",
+      "page": 268,
+      "parts": [
+        3
+      ],
+      "sha256": "152b9809e27977633193c173a280259a1fde367dfca12b19e18597f6312421d8"
+    },
+    {
+      "file": "Bedjan_page_269.txt",
+      "page": 269,
+      "parts": [
+        3
+      ],
+      "sha256": "4a7e5caab7e6fde5469a0a99a13ff61108e281d810f3839975711b01db712dc4"
+    },
+    {
+      "file": "Bedjan_page_270.txt",
+      "page": 270,
+      "parts": [
+        3
+      ],
+      "sha256": "e1c7e4affe6fdc24940ed843217156c3781838fa15d0d6128479d741f6267823"
+    },
+    {
+      "file": "Bedjan_page_271.txt",
+      "page": 271,
+      "parts": [
+        3
+      ],
+      "sha256": "62b6938e5daa9844670a66d9b3c0cea5e4ce6400cc63645100279546c1f6d041"
+    },
+    {
+      "file": "Bedjan_page_272.txt",
+      "page": 272,
+      "parts": [
+        3
+      ],
+      "sha256": "d39ddd4bafd0df5f3172915eb8c8315fdc2ff42b4d74acea234c5751e4a13691"
+    },
+    {
+      "file": "Bedjan_page_273.txt",
+      "page": 273,
+      "parts": [
+        3
+      ],
+      "sha256": "a77105436e99e372dc9dbf37b942547c3a50db472cad3875bc9bdc223eaff394"
+    },
+    {
+      "file": "Bedjan_page_274.txt",
+      "page": 274,
+      "parts": [
+        3
+      ],
+      "sha256": "5fc3a5a6e3a2871aa04f83269130d8137cd900736c4e496afc5110fbd54fdc13"
+    },
+    {
+      "file": "Bedjan_page_275.txt",
+      "page": 275,
+      "parts": [
+        3
+      ],
+      "sha256": "f748980887a49bfdecf8469eab6b4d577c229af27e802c1c5edae22657d747ca"
+    },
+    {
+      "file": "Bedjan_page_276.txt",
+      "page": 276,
+      "parts": [
+        3
+      ],
+      "sha256": "425c9aade047f4b055c018c3fcc15d3cd20e76a274a25f6c843ca29f40b902c0"
+    },
+    {
+      "file": "Bedjan_page_277.txt",
+      "page": 277,
+      "parts": [
+        3
+      ],
+      "sha256": "fea8912af053cd2e1a16dd26fcea7b4497aa9c4e49fdcfd4b077946b9a51b74b"
+    },
+    {
+      "file": "Bedjan_page_278.txt",
+      "page": 278,
+      "parts": [
+        3
+      ],
+      "sha256": "38653aa1b6eecd9fd8177c4afba1eb8ed9d89c433bf3f972630e526e2f2931e7"
+    },
+    {
+      "file": "Bedjan_page_279.txt",
+      "page": 279,
+      "parts": [
+        3
+      ],
+      "sha256": "52e9a45bb12d66fd980f42490f0a69813557bc184c0d72ca0f64fa54a5e6d3b1"
+    },
+    {
+      "file": "Bedjan_page_280.txt",
+      "page": 280,
+      "parts": [
+        3
+      ],
+      "sha256": "7df8b759324b87b3831422863dbd232f6945f6abf39e0b93c3e91a0dbcd1a985"
+    },
+    {
+      "file": "Bedjan_page_281.txt",
+      "page": 281,
+      "parts": [
+        3
+      ],
+      "sha256": "99fe19c771b1d7cf0a6ebac2e92f136cf4cb3ed30a88013eaf3e7d588abf3450"
+    },
+    {
+      "file": "Bedjan_page_282.txt",
+      "page": 282,
+      "parts": [
+        3
+      ],
+      "sha256": "c69af086c9e65c11632ae63e7bc3b87cf075581a92beeff4d69dd12705ca23e4"
+    },
+    {
+      "file": "Bedjan_page_283.txt",
+      "page": 283,
+      "parts": [
+        3
+      ],
+      "sha256": "26ea3a8a521b9dc866371d540c20d831732058f1c0c7e16f796b67603a2dae07"
+    },
+    {
+      "file": "Bedjan_page_284.txt",
+      "page": 284,
+      "parts": [
+        3
+      ],
+      "sha256": "e7aeb6e6a4cc477a105306c79063b1e197e6fe076f8b33349bdd4766b4fd0963"
+    },
+    {
+      "file": "Bedjan_page_285.txt",
+      "page": 285,
+      "parts": [
+        3
+      ],
+      "sha256": "03e3290a5de0ea1b59f69791acbedcb9039fe4c4a925f74f96ac0988ee38cb9f"
+    },
+    {
+      "file": "Bedjan_page_286.txt",
+      "page": 286,
+      "parts": [
+        3
+      ],
+      "sha256": "8ddc4b4268d8683a5b66234a7d12b4876201681240e806b40fd02405bdaf7afc"
+    },
+    {
+      "file": "Bedjan_page_287.txt",
+      "page": 287,
+      "parts": [
+        3
+      ],
+      "sha256": "23bcf38168fdcb2fb2f7c23191f94d02161521d15e931cc42f03d57908ae85e5"
+    },
+    {
+      "file": "Bedjan_page_288.txt",
+      "page": 288,
+      "parts": [
+        3
+      ],
+      "sha256": "6180e8cc1d94cee4f4374065221ba84fcdf59d1e0033ee733b973de3f52aaef3"
+    },
+    {
+      "file": "Bedjan_page_289.txt",
+      "page": 289,
+      "parts": [
+        3
+      ],
+      "sha256": "1090e20b0285562b7c03e1175af3a06fc793bd720ada72d5b18852941e424085"
+    },
+    {
+      "file": "Bedjan_page_290.txt",
+      "page": 290,
+      "parts": [
+        3
+      ],
+      "sha256": "28a563f5e4293c4dc24fa745ae675b15eed91f6e1cb2f2a86cb995b36d88ba66"
+    },
+    {
+      "file": "Bedjan_page_291.txt",
+      "page": 291,
+      "parts": [
+        3
+      ],
+      "sha256": "bc69722596f38cf66b95baa285853744e1417ce188df6df1b83f25865488c149"
+    },
+    {
+      "file": "Bedjan_page_292.txt",
+      "page": 292,
+      "parts": [
+        3
+      ],
+      "sha256": "cd06b495f6509c026c77aea0f5a482a6192f55d5e4295fe6f4c8d00faa53acf2"
+    },
+    {
+      "file": "Bedjan_page_293.txt",
+      "page": 293,
+      "parts": [
+        3
+      ],
+      "sha256": "e879d1e7e6ba7fcd7656112e8c0feeafa6b2c0b70c7ecf02f8e5eb0a30c73d69"
+    },
+    {
+      "file": "Bedjan_page_294.txt",
+      "page": 294,
+      "parts": [
+        3
+      ],
+      "sha256": "c63987eae3f762a35b86d5d1a87143c84367b0aee022fbce5cd2a7dd139b825b"
+    },
+    {
+      "file": "Bedjan_page_295.txt",
+      "page": 295,
+      "parts": [
+        3
+      ],
+      "sha256": "51afe6a080ed07a90f764350207bf66e45a1169507a775c66dda4b3d446b51b0"
+    },
+    {
+      "file": "Bedjan_page_296.txt",
+      "page": 296,
+      "parts": [
+        3
+      ],
+      "sha256": "241ced39a63dcbcd17cd9a5945e86caa93369bf52d203f827633a25b2cc2e055"
+    },
+    {
+      "file": "Bedjan_page_297.txt",
+      "page": 297,
+      "parts": [
+        3
+      ],
+      "sha256": "82472073de7b485414e7fae87e797f72136d6ff4765c96d1a154998a2ca58fb4"
+    },
+    {
+      "file": "Bedjan_page_298.txt",
+      "page": 298,
+      "parts": [
+        3
+      ],
+      "sha256": "93971613644ad1e35ea67b77ebabd39922d2e96596415490f55e488e2c360405"
+    },
+    {
+      "file": "Bedjan_page_299.txt",
+      "page": 299,
+      "parts": [
+        3
+      ],
+      "sha256": "2c55af3a1aff1bd572baa3e8c8cec52022c4ee86f11aedfadda72123da59d867"
+    },
+    {
+      "file": "Bedjan_page_300.txt",
+      "page": 300,
+      "parts": [
+        3
+      ],
+      "sha256": "6e0ca28a93b1f3b1a29c4b7b82cebc3d81fe4728fb3fcffda6a1d365b05bbf94"
+    },
+    {
+      "file": "Bedjan_page_301.txt",
+      "page": 301,
+      "parts": [
+        3
+      ],
+      "sha256": "c4b25c45ab975074e9f0884bf1f98deae3ec0e41a7393bd6d25cd8d3002e8a30"
+    },
+    {
+      "file": "Bedjan_page_302.txt",
+      "page": 302,
+      "parts": [
+        3
+      ],
+      "sha256": "07066069b797ba52f182760ff55df9dbf97cbd4a3f68a5355688c204916770f1"
+    },
+    {
+      "file": "Bedjan_page_303.txt",
+      "page": 303,
+      "parts": [
+        3
+      ],
+      "sha256": "5eb5a082d167fa7922956b4b25d857c129cc47a1788598907ab054c82f4742aa"
+    },
+    {
+      "file": "Bedjan_page_304.txt",
+      "page": 304,
+      "parts": [
+        3
+      ],
+      "sha256": "26a70737da4d1bdc7c93b8131fe22a49cf4909c70ca04b5cd2bf1289abf6da40"
+    },
+    {
+      "file": "Bedjan_page_305.txt",
+      "page": 305,
+      "parts": [
+        3
+      ],
+      "sha256": "0e767034d3c6fe3ef781a863e4561b1fd526040f9bb74bea4b05c8bfa9404c46"
+    },
+    {
+      "file": "Bedjan_page_306.txt",
+      "page": 306,
+      "parts": [
+        3
+      ],
+      "sha256": "a3bc7e5d888e7cebdf6fc738ea2c157a29b368188ce999a667fd09406418b460"
+    },
+    {
+      "file": "Bedjan_page_307.txt",
+      "page": 307,
+      "parts": [
+        3
+      ],
+      "sha256": "294bf890352c3f4c844b0fdefa83c55f8279f2fcf5be38f787156c62b4aaa709"
+    },
+    {
+      "file": "Bedjan_page_308.txt",
+      "page": 308,
+      "parts": [
+        3
+      ],
+      "sha256": "dee96cbcd7dbe39f271751e955a2b04dc28fc8fb64c53a58b280f778eb7e39c5"
+    },
+    {
+      "file": "Bedjan_page_309.txt",
+      "page": 309,
+      "parts": [
+        3
+      ],
+      "sha256": "72fc5f7845f493e1bd81b52fd8c8bde09590bf262fc8db84ab6f8548aabd4533"
+    },
+    {
+      "file": "Bedjan_page_310.txt",
+      "page": 310,
+      "parts": [
+        3
+      ],
+      "sha256": "5105c015f2bc98d57bfb4e44412a7f22440c4a6eaeb8555b4aef39a193c61fa2"
+    },
+    {
+      "file": "Bedjan_page_311.txt",
+      "page": 311,
+      "parts": [
+        3
+      ],
+      "sha256": "7633fe2e558a70ecd666e422d7fdd5a90e307012c9622411fb8d140829757906"
+    },
+    {
+      "file": "Bedjan_page_312.txt",
+      "page": 312,
+      "parts": [
+        3
+      ],
+      "sha256": "128b7ad7857e98fe509b65c94251231544a4412bbfc8fe7321c1be6db2e4ab80"
+    },
+    {
+      "file": "Bedjan_page_313.txt",
+      "page": 313,
+      "parts": [
+        3
+      ],
+      "sha256": "a19fe45051ea693e1919b95aa6fe855cc4bf761df9aa3783eefc62073d265a9b"
+    },
+    {
+      "file": "Bedjan_page_314.txt",
+      "page": 314,
+      "parts": [
+        3
+      ],
+      "sha256": "6e8305b9527223dd11d836ed829bc3f5d22544399ca51d38423fd5cf1ec2bac3"
+    },
+    {
+      "file": "Bedjan_page_315.txt",
+      "page": 315,
+      "parts": [
+        3
+      ],
+      "sha256": "50bf94030dc30650a6056ded3c5a9cd0b580afdb435f3c538e51e256915a0203"
+    },
+    {
+      "file": "Bedjan_page_316.txt",
+      "page": 316,
+      "parts": [
+        3
+      ],
+      "sha256": "33503a7d2b134f18c1fb5b0fd43f513fe19ad91b3d8ddbf5364835be5e7c969c"
+    },
+    {
+      "file": "Bedjan_page_317.txt",
+      "page": 317,
+      "parts": [
+        3
+      ],
+      "sha256": "8c812ab6281fe702a9102fa6ca7565f0dfd5a260883aaf1752655320011e450a"
+    },
+    {
+      "file": "Bedjan_page_318.txt",
+      "page": 318,
+      "parts": [
+        3
+      ],
+      "sha256": "d73db836b5819995c906c1b438f925a226233228f5ea16b3bddc7fce528113b2"
+    },
+    {
+      "file": "Bedjan_page_319.txt",
+      "page": 319,
+      "parts": [
+        3
+      ],
+      "sha256": "6a611a3712bd7be1d4275d502c8c4c6910627870c14640dc9b5259b46611e48b"
+    },
+    {
+      "file": "Bedjan_page_320.txt",
+      "page": 320,
+      "parts": [
+        3
+      ],
+      "sha256": "66286132b38eaf7e85f5874b26b2fe52214b1d00e003e39fe0188b7ebfc9cebb"
+    },
+    {
+      "file": "Bedjan_page_321.txt",
+      "page": 321,
+      "parts": [
+        3
+      ],
+      "sha256": "1de9ab029b84e0103c1c483b918d68a986797d1a0f1032ff360a272d5fa1b16e"
+    },
+    {
+      "file": "Bedjan_page_322.txt",
+      "page": 322,
+      "parts": [
+        3
+      ],
+      "sha256": "547445466919bc370d9254e490f0da139267ddfbaa5651fddabc7f53cf347f68"
+    },
+    {
+      "file": "Bedjan_page_323.txt",
+      "page": 323,
+      "parts": [
+        3
+      ],
+      "sha256": "b0e6130c41abac8ac00207724fa4e8d28ac32cdd9d7e1180685bb628b448f258"
+    },
+    {
+      "file": "Bedjan_page_324.txt",
+      "page": 324,
+      "parts": [
+        3
+      ],
+      "sha256": "79b2834719debcf5f4e55afa8594ed2126cc9a067167d1ac960083585675449c"
+    },
+    {
+      "file": "Bedjan_page_325.txt",
+      "page": 325,
+      "parts": [
+        3
+      ],
+      "sha256": "d5cc5d6598cea891f8fbe4f8bf91eb317732b79cc50c793446524a577f6a9afd"
+    },
+    {
+      "file": "Bedjan_page_326.txt",
+      "page": 326,
+      "parts": [
+        3
+      ],
+      "sha256": "ff2fbcac83fd8932e2d8a3869c4483cb28fdf6337545a4ff0362ae28c89953b5"
+    },
+    {
+      "file": "Bedjan_page_327.txt",
+      "page": 327,
+      "parts": [
+        3
+      ],
+      "sha256": "569c18618c548b16340a66f3b37d10248d9b34d2d3a7cda0d1abf0b759b3c89b"
+    },
+    {
+      "file": "Bedjan_page_328.txt",
+      "page": 328,
+      "parts": [
+        3
+      ],
+      "sha256": "2d83fb07672c943ca4383f64bdc889193f0c5eb757a187fc769bbcded0a46f0d"
+    },
+    {
+      "file": "Bedjan_page_329.txt",
+      "page": 329,
+      "parts": [
+        3
+      ],
+      "sha256": "b846bffa10d38df51edab789d780817b194b7d55d0d4019a58ba043cb068ef94"
+    },
+    {
+      "file": "Bedjan_page_330.txt",
+      "page": 330,
+      "parts": [
+        3
+      ],
+      "sha256": "7a6f15518d52e1acafa01e2c503d1b1653911d214a88002d17ad2bdd2dcfdf1d"
+    },
+    {
+      "file": "Bedjan_page_331.txt",
+      "page": 331,
+      "parts": [
+        3
+      ],
+      "sha256": "4f328c6056ee6ddc5c650aaa8a8e2185a23e96d6b72b6c382610281fb0478527"
+    },
+    {
+      "file": "Bedjan_page_332.txt",
+      "page": 332,
+      "parts": [
+        3
+      ],
+      "sha256": "5219704aa7ee0ddca4ecfaad036341b4f0f35c208d35b1c801bb66a6ca91cd6b"
+    },
+    {
+      "file": "Bedjan_page_333.txt",
+      "page": 333,
+      "parts": [
+        3
+      ],
+      "sha256": "5f5cbb370544db58e3a2f19db805e55ee31ca75a1f189fdf9d8630ebb21cf66b"
+    },
+    {
+      "file": "Bedjan_page_334.txt",
+      "page": 334,
+      "parts": [
+        3
+      ],
+      "sha256": "f3e68a00605c97c0281ec74856b35f4eee4158bedfeff11ff2cb0f1d277024bf"
+    },
+    {
+      "file": "Bedjan_page_335.txt",
+      "page": 335,
+      "parts": [
+        3
+      ],
+      "sha256": "c9b7a4fb8e5a95d98b83d67e3441afb5d7114e8d50670d9e7a601ecd9df8dd63"
+    },
+    {
+      "file": "Bedjan_page_336.txt",
+      "page": 336,
+      "parts": [
+        3
+      ],
+      "sha256": "a81cf80b9d3fa1047fc5c1d708dcc2be7843634eb27cd72ad1d08f4e9a59b6f6"
+    },
+    {
+      "file": "Bedjan_page_337.txt",
+      "page": 337,
+      "parts": [
+        3
+      ],
+      "sha256": "56efe53664742c085c63323f17792f1a743516923d5a4a16039cc56e90b65a8f"
+    },
+    {
+      "file": "Bedjan_page_338.txt",
+      "page": 338,
+      "parts": [
+        3
+      ],
+      "sha256": "066530350d0591eccd29fba393d82a0c5c61c1276a83d64ff512717be5e8a5b0"
+    },
+    {
+      "file": "Bedjan_page_339.txt",
+      "page": 339,
+      "parts": [
+        3
+      ],
+      "sha256": "6482d136dfb7f2fcd0c9c8dff6ae66d8aa6e47cb48aae26c68f451236644599c"
+    },
+    {
+      "file": "Bedjan_page_340.txt",
+      "page": 340,
+      "parts": [
+        3
+      ],
+      "sha256": "9ceab3b1a12d3c7e53b51199f835ec9846f0ad065bb59056a72351eb803763f5"
+    },
+    {
+      "file": "Bedjan_page_341.txt",
+      "page": 341,
+      "parts": [
+        3
+      ],
+      "sha256": "c19f41ddf07b7a7f67f4d2df11e1022f317483d937fc4c445ec1e68cc7f24c68"
+    },
+    {
+      "file": "Bedjan_page_342.txt",
+      "page": 342,
+      "parts": [
+        3
+      ],
+      "sha256": "9e05dbb188470cb96fba93ea89e07d96251bc9a3ec1ef0d777443fbe653a46b9"
+    },
+    {
+      "file": "Bedjan_page_343.txt",
+      "page": 343,
+      "parts": [
+        3
+      ],
+      "sha256": "a7b82a2039cf8d0edbb94ffc0e836a8715c00b6789e90c85a609bdaa3e23aff8"
+    },
+    {
+      "file": "Bedjan_page_344.txt",
+      "page": 344,
+      "parts": [
+        3
+      ],
+      "sha256": "cf902722e029b89cd21a7020c14695ef5cdcf92d90fe43b136cd444fa5e9587f"
+    },
+    {
+      "file": "Bedjan_page_345.txt",
+      "page": 345,
+      "parts": [
+        3
+      ],
+      "sha256": "db0bb04b9bfca95bd32418c735b3e6d6c4e2bb0f77aeba0ae806a79a684971e7"
+    },
+    {
+      "file": "Bedjan_page_346.txt",
+      "page": 346,
+      "parts": [
+        3
+      ],
+      "sha256": "60a6dde7835425ff5d815177fd335df6456b6f12426ad0de4b0f666760e07df9"
+    },
+    {
+      "file": "Bedjan_page_347.txt",
+      "page": 347,
+      "parts": [
+        3
+      ],
+      "sha256": "3249ac0404b73438be75515de375d3f473c75691b315748195355fbaafa8e743"
+    },
+    {
+      "file": "Bedjan_page_348.txt",
+      "page": 348,
+      "parts": [
+        3
+      ],
+      "sha256": "6cb6d5106da3755eb87e54b88362b102dbff03f5fa06f43c3ffbf87b7092aa4a"
+    },
+    {
+      "file": "Bedjan_page_349.txt",
+      "page": 349,
+      "parts": [
+        3
+      ],
+      "sha256": "e9449f315ef690f36b3f2036322c611319231f4ef7d7e1682b56f77471f21d9c"
+    },
+    {
+      "file": "Bedjan_page_350.txt",
+      "page": 350,
+      "parts": [
+        3
+      ],
+      "sha256": "3a00fca971be12b140b2c6dc6bb124f60e0c11ac68318ada56e8a11695e0f513"
+    },
+    {
+      "file": "Bedjan_page_351.txt",
+      "page": 351,
+      "parts": [
+        3
+      ],
+      "sha256": "35289dd4a1631fa5b4d7049960780a6fadf8de70bfbb251085a0facac3077abb"
+    },
+    {
+      "file": "Bedjan_page_352.txt",
+      "page": 352,
+      "parts": [
+        3
+      ],
+      "sha256": "59b8beebc4d02ff5791d76e3ac402387f5de0a4f725f52410d982113ecb26022"
+    },
+    {
+      "file": "Bedjan_page_353.txt",
+      "page": 353,
+      "parts": [
+        3
+      ],
+      "sha256": "5e914ca9b0b42cefea3522ba5b61f4a3b59efb62187adf12c89aa4d1a5903194"
+    },
+    {
+      "file": "Bedjan_page_354.txt",
+      "page": 354,
+      "parts": [
+        3
+      ],
+      "sha256": "8a9c2ea0a556697e0d5753f2695b15ce8a28b5ce246e00b40679a902a018f639"
+    },
+    {
+      "file": "Bedjan_page_355.txt",
+      "page": 355,
+      "parts": [
+        3
+      ],
+      "sha256": "a824bf01ba60e42822f5ece490eae299b2923ad0a91632e90c6016dcd4216b11"
+    },
+    {
+      "file": "Bedjan_page_356.txt",
+      "page": 356,
+      "parts": [
+        3
+      ],
+      "sha256": "845f70315409b58e261a64ab6303edd4491cb1a03aebc46dcbc0c61dc98c1537"
+    },
+    {
+      "file": "Bedjan_page_357.txt",
+      "page": 357,
+      "parts": [
+        3
+      ],
+      "sha256": "cee588a733647d851cfd2d52ebca5f4eb53dede2607e6f9e7207fb3fc8793150"
+    },
+    {
+      "file": "Bedjan_page_358.txt",
+      "page": 358,
+      "parts": [
+        3
+      ],
+      "sha256": "5c8793aff7bf0e2c902858634b4ad534aaff02b48e4e47711e274d277b716fb7"
+    },
+    {
+      "file": "Bedjan_page_359.txt",
+      "page": 359,
+      "parts": [
+        3
+      ],
+      "sha256": "df38e368e673fadf06372b9cf71b6e5e5ec863158af027d96c0cb26bd0631a51"
+    },
+    {
+      "file": "Bedjan_page_360.txt",
+      "page": 360,
+      "parts": [
+        3
+      ],
+      "sha256": "a6ba1f9b0fb6310c940ac5a05d70b64e5e2ae38b2d0f943ea44d2feff0d1b9fd"
+    },
+    {
+      "file": "Bedjan_page_361.txt",
+      "page": 361,
+      "parts": [
+        3
+      ],
+      "sha256": "b817af3b277d5173f882614b35d3318fcc3cc665072283618cd1f6d04ae231af"
+    },
+    {
+      "file": "Bedjan_page_362.txt",
+      "page": 362,
+      "parts": [
+        3
+      ],
+      "sha256": "0c039b93fbbcf0b438afb9381a3441b3524fe012dc3bd7a07f30a496595cdcf9"
+    },
+    {
+      "file": "Bedjan_page_363.txt",
+      "page": 363,
+      "parts": [
+        3
+      ],
+      "sha256": "e41b9c6b641202222fc1a5080e1219ad8986d96c861b483586ed75aeab033c13"
+    },
+    {
+      "file": "Bedjan_page_364.txt",
+      "page": 364,
+      "parts": [
+        3
+      ],
+      "sha256": "3ff6e999831844ca0ce7465fca9c28f67c746070fbe2a8064407194ba37260d8"
+    },
+    {
+      "file": "Bedjan_page_365.txt",
+      "page": 365,
+      "parts": [
+        3
+      ],
+      "sha256": "6ba94b63815d2e86f215be2bb9e81c94963f3abca0476efcaa675785f645bba9"
+    },
+    {
+      "file": "Bedjan_page_366.txt",
+      "page": 366,
+      "parts": [
+        3
+      ],
+      "sha256": "4f03d3cad997f7a492a63010bb573cd9794d2db3188b543aba1aadd1dee0f2ec"
+    },
+    {
+      "file": "Bedjan_page_367.txt",
+      "page": 367,
+      "parts": [
+        3
+      ],
+      "sha256": "2fa2f52923809ff23c72e254e367796dcc870a450b2166db1deac434c3741879"
+    },
+    {
+      "file": "Bedjan_page_368.txt",
+      "page": 368,
+      "parts": [
+        3
+      ],
+      "sha256": "6745521812086e159e767ccf8e9ebe3bb6b02ccdc20e2bffbf7919cb311e251b"
+    },
+    {
+      "file": "Bedjan_page_369.txt",
+      "page": 369,
+      "parts": [
+        3
+      ],
+      "sha256": "89666952849ff5a94291f40101887b2c7734fef0d30bc78df217b45bb237425d"
+    },
+    {
+      "file": "Bedjan_page_370.txt",
+      "page": 370,
+      "parts": [
+        3
+      ],
+      "sha256": "7893c1c76513b360f83c0ae9fd27da202fdf268c1f3e48ff43cd597409b278a8"
+    },
+    {
+      "file": "Bedjan_page_371.txt",
+      "page": 371,
+      "parts": [
+        3
+      ],
+      "sha256": "7121c0c32900536f5122d4e6bb06e6fbb27182745778042d6443e9f32f64d43e"
+    },
+    {
+      "file": "Bedjan_page_372.txt",
+      "page": 372,
+      "parts": [
+        3
+      ],
+      "sha256": "aa6fa5427c0bc1257a4e4512220562b0cdddd797e98c77711649c5e9038432d2"
+    },
+    {
+      "file": "Bedjan_page_373.txt",
+      "page": 373,
+      "parts": [
+        3
+      ],
+      "sha256": "79e2ab5fa09063f61f057836d90ee82f1cbbe98403513b913e4dd130e5b53ee2"
+    },
+    {
+      "file": "Bedjan_page_374.txt",
+      "page": 374,
+      "parts": [
+        3
+      ],
+      "sha256": "8f610dca36ce28e02557bae487255536b83152e6357529093086dfa6e1d72168"
+    },
+    {
+      "file": "Bedjan_page_375.txt",
+      "page": 375,
+      "parts": [
+        3
+      ],
+      "sha256": "3e3ad750e5992aa0b5e73a51524bec6d2e5ad35321cfbd0049785550d45c98f6"
+    },
+    {
+      "file": "Bedjan_page_376.txt",
+      "page": 376,
+      "parts": [
+        3
+      ],
+      "sha256": "821baca0320aa21a0ac59cd33763133d9ab65338ece596c626ecab6a8221b2cb"
+    },
+    {
+      "file": "Bedjan_page_377.txt",
+      "page": 377,
+      "parts": [
+        3
+      ],
+      "sha256": "720315f46ddd93e2ecc1386dfa4abac80f498b7a7a01aa48ae93fc8312e29a1c"
+    },
+    {
+      "file": "Bedjan_page_378.txt",
+      "page": 378,
+      "parts": [
+        3
+      ],
+      "sha256": "1cf093507a8ad9c859de2e743ecec007cf361b4d926b183a08f9bc6303fdf6f3"
+    },
+    {
+      "file": "Bedjan_page_379.txt",
+      "page": 379,
+      "parts": [
+        3
+      ],
+      "sha256": "706d5792bb8d0ca5773c144f685d0d38a0781227758a1038717992ed2c001233"
+    },
+    {
+      "file": "Bedjan_page_380.txt",
+      "page": 380,
+      "parts": [
+        3
+      ],
+      "sha256": "d3ae0396759f3a958583399d9e3da9c77cacf14b281021ffad1d2ce81a4e8739"
+    },
+    {
+      "file": "Bedjan_page_381.txt",
+      "page": 381,
+      "parts": [
+        3
+      ],
+      "sha256": "464206de44cceaf7a4a60909b7d74ae100c2fb1c67d40edfd740b5a71cc0b5e6"
+    },
+    {
+      "file": "Bedjan_page_382.txt",
+      "page": 382,
+      "parts": [
+        3
+      ],
+      "sha256": "4227dac8be716f5e8dde0c38212ff11b9ddca7c1d38fa9b8b2a005d9dcaef787"
+    },
+    {
+      "file": "Bedjan_page_383.txt",
+      "page": 383,
+      "parts": [
+        3
+      ],
+      "sha256": "4b3164e7f2d917260df24a1ef2e9164136a0110c383e355991c38864038b81c6"
+    },
+    {
+      "file": "Bedjan_page_384.txt",
+      "page": 384,
+      "parts": [
+        3
+      ],
+      "sha256": "24e0bb300cc918c9873bba44ecf1eb992050e570081531909ef67a4d2dc80932"
+    },
+    {
+      "file": "Bedjan_page_385.txt",
+      "page": 385,
+      "parts": [
+        4
+      ],
+      "sha256": "988cc0c615f7ae4df6f1433cfb2441b7d1b6c4e08d139945cc2251f2ead18349"
+    },
+    {
+      "file": "Bedjan_page_386.txt",
+      "page": 386,
+      "parts": [
+        4
+      ],
+      "sha256": "00a831f075b33d58ebda73c172b5d43ede5bb06d7251ba5fcd4b048311496e29"
+    },
+    {
+      "file": "Bedjan_page_387.txt",
+      "page": 387,
+      "parts": [
+        4
+      ],
+      "sha256": "c1fea23132b87d162101e77eb25b6327a7d21836b98a27377bd12ac7a9dffbeb"
+    },
+    {
+      "file": "Bedjan_page_388.txt",
+      "page": 388,
+      "parts": [
+        4
+      ],
+      "sha256": "5b03c422247066d4fb4043a9be70b672726f034d4f4436c9a32c50ae2be1f3e8"
+    },
+    {
+      "file": "Bedjan_page_389.txt",
+      "page": 389,
+      "parts": [
+        4
+      ],
+      "sha256": "982701bd5aa8e256dc275d1a39d6c54328c2b8b192895cb3b2b66a00bbb24d22"
+    },
+    {
+      "file": "Bedjan_page_390.txt",
+      "page": 390,
+      "parts": [
+        4
+      ],
+      "sha256": "560c2582a48297a8543cb9372a38331552886f293df9f83d48c152170f53f7ea"
+    },
+    {
+      "file": "Bedjan_page_391.txt",
+      "page": 391,
+      "parts": [
+        4
+      ],
+      "sha256": "4c4d63ae5c78ca19213b0f8791364ece043ef4b3275bd6d38f228c84e3ca10b0"
+    },
+    {
+      "file": "Bedjan_page_392.txt",
+      "page": 392,
+      "parts": [
+        4
+      ],
+      "sha256": "5d333b2d4cb7edcb001476337e28333fc268e7708d507c6910023e78cb88ac90"
+    },
+    {
+      "file": "Bedjan_page_393.txt",
+      "page": 393,
+      "parts": [
+        4
+      ],
+      "sha256": "9da95373723e17c643b527aa64913f32703367c18ae9c7f1a6f49163d684e52f"
+    },
+    {
+      "file": "Bedjan_page_394.txt",
+      "page": 394,
+      "parts": [
+        4
+      ],
+      "sha256": "5b21ad6dbd40b262a7dd352d7715de194a8981fa6ac40cb25f2eb1bb157fa178"
+    },
+    {
+      "file": "Bedjan_page_395.txt",
+      "page": 395,
+      "parts": [
+        4
+      ],
+      "sha256": "4ad84bc932b29ca1b579d1100cffe329693d434d2c6db6cc0a334b909ab1354e"
+    },
+    {
+      "file": "Bedjan_page_396.txt",
+      "page": 396,
+      "parts": [
+        4
+      ],
+      "sha256": "dfa867931d04cd26ac78c432c5d612afcbc3d644bbf37c31424d90c91b6c62b6"
+    },
+    {
+      "file": "Bedjan_page_397.txt",
+      "page": 397,
+      "parts": [
+        4
+      ],
+      "sha256": "51c9228836d394295c6a0a713cf064c60c3e70ea7eb0a21b944882374c7b1eae"
+    },
+    {
+      "file": "Bedjan_page_398.txt",
+      "page": 398,
+      "parts": [
+        4
+      ],
+      "sha256": "feecd3e0e16862f306236bcfd96bbdb70f8e69360683deae4ce78bdca7619452"
+    },
+    {
+      "file": "Bedjan_page_399.txt",
+      "page": 399,
+      "parts": [
+        4
+      ],
+      "sha256": "206b8fc3c5e9cdfd596c0213070deb80a07b63cc32d86f5a4aa45c54f49a291b"
+    },
+    {
+      "file": "Bedjan_page_400.txt",
+      "page": 400,
+      "parts": [
+        4
+      ],
+      "sha256": "49bd1da3a54506ba9f68c642da5195d34e75e59e2e78870081e791394c4b7817"
+    },
+    {
+      "file": "Bedjan_page_401.txt",
+      "page": 401,
+      "parts": [
+        4
+      ],
+      "sha256": "a3b8778d4d1d9530fed88748fbec7a91bd735de46d7540f78e5ed131df224133"
+    },
+    {
+      "file": "Bedjan_page_402.txt",
+      "page": 402,
+      "parts": [
+        4
+      ],
+      "sha256": "8454a46812aeaf0cff407d2dca4d532e97c1a38de54473e90401f9bf1c1c9386"
+    },
+    {
+      "file": "Bedjan_page_403.txt",
+      "page": 403,
+      "parts": [
+        4
+      ],
+      "sha256": "37854cf129f031a4d5c39fc5268592cb0334ff995ca8ddfbe880bf049770a88a"
+    },
+    {
+      "file": "Bedjan_page_404.txt",
+      "page": 404,
+      "parts": [
+        4
+      ],
+      "sha256": "99ef20cfa3682bbf44e923b907f0bd327bb64e73901c9dd116f802acde1c31c2"
+    },
+    {
+      "file": "Bedjan_page_405.txt",
+      "page": 405,
+      "parts": [
+        4
+      ],
+      "sha256": "080a29b3dc8794dd4aca51978484fcdbce9575b2b7dfeae1d5a6df240427d691"
+    },
+    {
+      "file": "Bedjan_page_406.txt",
+      "page": 406,
+      "parts": [
+        4
+      ],
+      "sha256": "cee0120e90c4ce9466438eb8d0ffd0e9e7fae691cd2074ce1320bd63289846ad"
+    },
+    {
+      "file": "Bedjan_page_407.txt",
+      "page": 407,
+      "parts": [
+        4
+      ],
+      "sha256": "0b91cd9e60148ff02d130ba0bdf2091ed2bc6b654b9fa36654405e327138a8e1"
+    },
+    {
+      "file": "Bedjan_page_408.txt",
+      "page": 408,
+      "parts": [
+        4
+      ],
+      "sha256": "74621bb463f90cf1bceea37f86c04b20ea16c3590781ac524a11f6e8f3f76a78"
+    },
+    {
+      "file": "Bedjan_page_409.txt",
+      "page": 409,
+      "parts": [
+        4
+      ],
+      "sha256": "233cf54ecdb652e147f1471967f0009112da3a6ac4af47d59b5def1a5087674e"
+    },
+    {
+      "file": "Bedjan_page_410.txt",
+      "page": 410,
+      "parts": [
+        4
+      ],
+      "sha256": "b1fce66aded2f4fa0864286d00ac69f6b388e45d22a16f0973da4844b836f9ef"
+    },
+    {
+      "file": "Bedjan_page_411.txt",
+      "page": 411,
+      "parts": [
+        4
+      ],
+      "sha256": "60637aeb9d0f260edfd466972f07d46751688c1c718b38bddf847e23216e56de"
+    },
+    {
+      "file": "Bedjan_page_412.txt",
+      "page": 412,
+      "parts": [
+        4
+      ],
+      "sha256": "ecaeecac475291c509dc8cab5daf70f075b1e53e3d5002f8fdc5778e194c9aa1"
+    },
+    {
+      "file": "Bedjan_page_413.txt",
+      "page": 413,
+      "parts": [
+        4
+      ],
+      "sha256": "cdd5be5a75b5c3b926995b46eb6961769f9dfa202edb2e4eb22ecb5acd2de95a"
+    },
+    {
+      "file": "Bedjan_page_414.txt",
+      "page": 414,
+      "parts": [
+        4
+      ],
+      "sha256": "044842fbaed460afa4ee90a9df20eb42431e12da95d2ce4f721a686f7ec8a1f1"
+    },
+    {
+      "file": "Bedjan_page_415.txt",
+      "page": 415,
+      "parts": [
+        4
+      ],
+      "sha256": "4f1a704289960959563a959233d5f8e1275664cde9c336bc5eafc596181e0439"
+    },
+    {
+      "file": "Bedjan_page_416.txt",
+      "page": 416,
+      "parts": [
+        4
+      ],
+      "sha256": "70eac8a6cba9993fabc82b5053643e6e1a163b4ee543a916d9c4c38042df776d"
+    },
+    {
+      "file": "Bedjan_page_417.txt",
+      "page": 417,
+      "parts": [
+        4
+      ],
+      "sha256": "2898bb03ac8b7c186c19b62a80e339685640e0f4f15cb3c4555750d06dcac385"
+    },
+    {
+      "file": "Bedjan_page_418.txt",
+      "page": 418,
+      "parts": [
+        4
+      ],
+      "sha256": "84f8d7500469fecda1485d1a740c0ae0fbcf8cabd2f7a8645caa45dc1d750a0b"
+    },
+    {
+      "file": "Bedjan_page_419.txt",
+      "page": 419,
+      "parts": [
+        4
+      ],
+      "sha256": "6d97d49390ded6e762c27a2cd20b301aa11626bc7cb7f019c5061e7e4b6c205a"
+    },
+    {
+      "file": "Bedjan_page_420.txt",
+      "page": 420,
+      "parts": [
+        4
+      ],
+      "sha256": "d14d381d9051295794ff99582f6afe83591992689a087c7dab50e2ca07f18a7b"
+    },
+    {
+      "file": "Bedjan_page_421.txt",
+      "page": 421,
+      "parts": [
+        4
+      ],
+      "sha256": "b046cafd001ac7a7a27e48ec1986208888dcb19c27966b98b5730ac702599631"
+    },
+    {
+      "file": "Bedjan_page_422.txt",
+      "page": 422,
+      "parts": [
+        4
+      ],
+      "sha256": "e7b565d9b7e7ab4f8704852d8aa5d2645d9eb05ac63d3128407f4b145f7a6b43"
+    },
+    {
+      "file": "Bedjan_page_423.txt",
+      "page": 423,
+      "parts": [
+        4
+      ],
+      "sha256": "5ca8421347918f051502dd877cabed287b568d41e4f96b41858d36c97768a045"
+    },
+    {
+      "file": "Bedjan_page_424.txt",
+      "page": 424,
+      "parts": [
+        4
+      ],
+      "sha256": "ad5faa754001ff3083bb8fcfd657a3ca2754bdb64b8064fdb6adb917f4a54864"
+    },
+    {
+      "file": "Bedjan_page_425.txt",
+      "page": 425,
+      "parts": [
+        4
+      ],
+      "sha256": "e322c8b59f8fcbdb10c9a2a3a72cb1e8191986b2e191027ab34ac87363c067ee"
+    },
+    {
+      "file": "Bedjan_page_426.txt",
+      "page": 426,
+      "parts": [
+        4
+      ],
+      "sha256": "bf4ae0b8e5e9b58d4edeb1d9c6bf4b323e049a84fc0098450c6b1492feaadfca"
+    },
+    {
+      "file": "Bedjan_page_427.txt",
+      "page": 427,
+      "parts": [
+        4
+      ],
+      "sha256": "cb8d2e7d59180ebaa237d01956e0ed1a9b6f401601ec54d804d58dcfafa27329"
+    },
+    {
+      "file": "Bedjan_page_428.txt",
+      "page": 428,
+      "parts": [
+        4
+      ],
+      "sha256": "5f495c976f472089aa5f7f2fe3fea76793a58b0636ba22ca72b472a3f04764d3"
+    },
+    {
+      "file": "Bedjan_page_429.txt",
+      "page": 429,
+      "parts": [
+        4
+      ],
+      "sha256": "9af8c3a991f8ab6ce7ebb35983e9fa7f6f67a2dc0c08d262d330a05d98dd0c28"
+    },
+    {
+      "file": "Bedjan_page_430.txt",
+      "page": 430,
+      "parts": [
+        4
+      ],
+      "sha256": "95ca900dd8ddd1e7eb23cd1b526f7ed013bd006a4eecfaeef3a0a646eec6f239"
+    },
+    {
+      "file": "Bedjan_page_431.txt",
+      "page": 431,
+      "parts": [
+        4
+      ],
+      "sha256": "b870ab2ed016a1dce9054cd4dc8e710258b0d12b3e759de53904cf9441c1ddf2"
+    },
+    {
+      "file": "Bedjan_page_432.txt",
+      "page": 432,
+      "parts": [
+        4
+      ],
+      "sha256": "873c2d3b117ed0b9c01929ef80f70682bc52f96b153ca4b8343e9aeab44564b6"
+    },
+    {
+      "file": "Bedjan_page_433.txt",
+      "page": 433,
+      "parts": [
+        4
+      ],
+      "sha256": "e1f334ac13964512094795d9a0645d006ebf33284a60945ff08fa50f5f1e55b7"
+    },
+    {
+      "file": "Bedjan_page_434.txt",
+      "page": 434,
+      "parts": [
+        4
+      ],
+      "sha256": "0aae3228a8387d45ee33190e3ccd4a383455e1bf2095a92f93ad7a7426af12d6"
+    },
+    {
+      "file": "Bedjan_page_435.txt",
+      "page": 435,
+      "parts": [
+        4
+      ],
+      "sha256": "c90b0fb53df734a71353f68ea1ced767168e153ad003e7bdfd234f7c420e723e"
+    },
+    {
+      "file": "Bedjan_page_436.txt",
+      "page": 436,
+      "parts": [
+        4
+      ],
+      "sha256": "f2184ed55b25ccba30a78a15661a6283bf160badb68186998263d01efa6cb722"
+    },
+    {
+      "file": "Bedjan_page_437.txt",
+      "page": 437,
+      "parts": [
+        4
+      ],
+      "sha256": "976590ca90d8f640cb689340e4c171dfc8026c0be8fe48df5b8697e3f8060830"
+    },
+    {
+      "file": "Bedjan_page_438.txt",
+      "page": 438,
+      "parts": [
+        4
+      ],
+      "sha256": "83c39a3f4665efa6368fd28a43f8ec5fa8b0c42b58a09af51145764ea2044ce5"
+    },
+    {
+      "file": "Bedjan_page_439.txt",
+      "page": 439,
+      "parts": [
+        4
+      ],
+      "sha256": "a0ef1fa77a90d27ee1a2ec7d298464ee04664ebdaad59464449ebeecc6362050"
+    },
+    {
+      "file": "Bedjan_page_440.txt",
+      "page": 440,
+      "parts": [
+        4
+      ],
+      "sha256": "d896225de976f2412c8a64300cbebc7c29d50ccfff472ccdca48084062764797"
+    },
+    {
+      "file": "Bedjan_page_441.txt",
+      "page": 441,
+      "parts": [
+        4
+      ],
+      "sha256": "475ab2682c6d7aa61b83ff88908830dd31f53a261016a0293e43ce0fc8137b1d"
+    },
+    {
+      "file": "Bedjan_page_442.txt",
+      "page": 442,
+      "parts": [
+        4
+      ],
+      "sha256": "83cd10ccf2cfcd8b4cb93779c9c056ef491af5241372c501181d3f0997cb0cda"
+    },
+    {
+      "file": "Bedjan_page_443.txt",
+      "page": 443,
+      "parts": [
+        4
+      ],
+      "sha256": "48aa0df4e03ce5a000fa99981564444649ee0cc9b60ddf5f3e1bc2a71c74ede3"
+    },
+    {
+      "file": "Bedjan_page_444.txt",
+      "page": 444,
+      "parts": [
+        4
+      ],
+      "sha256": "89c99d0dea05767b3bc9542e576da6d6c9a7246cb1d03c0129641e58fc60bede"
+    },
+    {
+      "file": "Bedjan_page_445.txt",
+      "page": 445,
+      "parts": [
+        4
+      ],
+      "sha256": "aba4029e086818ce82318c8c01b6e022f5cdd13edd80918946be4c388d8379bc"
+    },
+    {
+      "file": "Bedjan_page_446.txt",
+      "page": 446,
+      "parts": [
+        4
+      ],
+      "sha256": "18c3adad64b4070922c2a5e4bf8ed3330e854e3a8407ef9da3ad5ae0597b1f40"
+    },
+    {
+      "file": "Bedjan_page_447.txt",
+      "page": 447,
+      "parts": [
+        4
+      ],
+      "sha256": "04a0090325c4cfd78cca076002b980c11bd8e8f94313e6b44b509befed7ab5e8"
+    },
+    {
+      "file": "Bedjan_page_448.txt",
+      "page": 448,
+      "parts": [
+        4
+      ],
+      "sha256": "d1f1f8f565d20d909068dbcc5dae6dc5b3c1f067aae86d81e3879001d7118236"
+    },
+    {
+      "file": "Bedjan_page_449.txt",
+      "page": 449,
+      "parts": [
+        4
+      ],
+      "sha256": "c440718370d3def758261f0d73d584dac30c96aa0f71331a1c9f02c87a5724da"
+    },
+    {
+      "file": "Bedjan_page_450.txt",
+      "page": 450,
+      "parts": [
+        4
+      ],
+      "sha256": "4ba669e2c7df092c63c9ee976cee29f56ce9cd7fbde0b7275e4ccfe6fe97df58"
+    },
+    {
+      "file": "Bedjan_page_451.txt",
+      "page": 451,
+      "parts": [
+        4
+      ],
+      "sha256": "709b1037438f74aa57d70a8e02d53c9012efb1d183be951129c341714984f38a"
+    },
+    {
+      "file": "Bedjan_page_452.txt",
+      "page": 452,
+      "parts": [
+        4
+      ],
+      "sha256": "18feab04b324dd4cbb5d85abbbee96af7d1fcaa20ddbb088016918a108ec558c"
+    },
+    {
+      "file": "Bedjan_page_453.txt",
+      "page": 453,
+      "parts": [
+        4
+      ],
+      "sha256": "95eb0580722252de0ad81efc8bc41331704c5ed9d4b504e4bd183d97be046976"
+    },
+    {
+      "file": "Bedjan_page_454.txt",
+      "page": 454,
+      "parts": [
+        4
+      ],
+      "sha256": "c9247b45ac48aa180a9bf21da3a449066494a6702005fe4377ac4ac99450979c"
+    },
+    {
+      "file": "Bedjan_page_455.txt",
+      "page": 455,
+      "parts": [
+        4
+      ],
+      "sha256": "12c490909779e31cf675f2519981e9034347a6ba0d6c2d49d12d23245f7bd7d0"
+    },
+    {
+      "file": "Bedjan_page_456.txt",
+      "page": 456,
+      "parts": [
+        4
+      ],
+      "sha256": "b42df0b688608c4f00c1bfc1e6152a0131397c7e8d3cec2a06115b410f2f045c"
+    },
+    {
+      "file": "Bedjan_page_457.txt",
+      "page": 457,
+      "parts": [
+        4
+      ],
+      "sha256": "c780417b8b920727cd2aaf1cfc4b2cd0d8f3b831fc7f2db55af79e1d7c836b51"
+    },
+    {
+      "file": "Bedjan_page_458.txt",
+      "page": 458,
+      "parts": [
+        4
+      ],
+      "sha256": "1a7b08e335e76e677e40d2386d095de2951add78e00dc7795142063bc0515785"
+    },
+    {
+      "file": "Bedjan_page_459.txt",
+      "page": 459,
+      "parts": [
+        4
+      ],
+      "sha256": "495697289c3495fde9325ccb1f50294a1ed744c588f13c53d96de16bee401db3"
+    },
+    {
+      "file": "Bedjan_page_460.txt",
+      "page": 460,
+      "parts": [
+        4
+      ],
+      "sha256": "f27ef337928ade12319fe7a23a08d8c79969ac05931bf14a79d1254529b9eaeb"
+    },
+    {
+      "file": "Bedjan_page_461.txt",
+      "page": 461,
+      "parts": [
+        4
+      ],
+      "sha256": "764368ab52d6baac919ed51301a9b20cf597e4a4f85a83d068abd5967e212b82"
+    },
+    {
+      "file": "Bedjan_page_462.txt",
+      "page": 462,
+      "parts": [
+        4
+      ],
+      "sha256": "b70c570ea50de983f26e63d345fa672539b53190668254f4add90926e583aff9"
+    },
+    {
+      "file": "Bedjan_page_463.txt",
+      "page": 463,
+      "parts": [
+        4
+      ],
+      "sha256": "17ce863e19a709a58e9ba133ace6e643df8e8306c1be9aa555fa1f2ee17874e0"
+    },
+    {
+      "file": "Bedjan_page_464.txt",
+      "page": 464,
+      "parts": [
+        4
+      ],
+      "sha256": "fa5ea819f943a733ce85b806f6d50f9c160f9ab00a6d2aefdaa8d1e4a1cb742f"
+    },
+    {
+      "file": "Bedjan_page_465.txt",
+      "page": 465,
+      "parts": [
+        4
+      ],
+      "sha256": "a8d578c1e2969819f1ccfb32d4246d483ee8ae5842cca516d17367c93837fdfd"
+    },
+    {
+      "file": "Bedjan_page_466.txt",
+      "page": 466,
+      "parts": [
+        4
+      ],
+      "sha256": "dee1680661f056cedd443e47f5138231fbe7240857d09e9994100f89a5eda58f"
+    },
+    {
+      "file": "Bedjan_page_467.txt",
+      "page": 467,
+      "parts": [
+        4
+      ],
+      "sha256": "371dc4f60b123d27708a9c0a46eef6847c39829e3dc26ff807a4490184da11fe"
+    },
+    {
+      "file": "Bedjan_page_468.txt",
+      "page": 468,
+      "parts": [
+        4
+      ],
+      "sha256": "ba2a9857e69b125e87574c7c3d02c2a2738d975a2341d96e2903933f2c9978e5"
+    },
+    {
+      "file": "Bedjan_page_469.txt",
+      "page": 469,
+      "parts": [
+        4
+      ],
+      "sha256": "381e7266095e81e45b4af84b2813a30513dc48e92ad5026d963b26d4bb1bb107"
+    },
+    {
+      "file": "Bedjan_page_470.txt",
+      "page": 470,
+      "parts": [
+        4
+      ],
+      "sha256": "c441f6331d6a74101a81f6db143da3e66e87ee9804ada20bea8a2701a9702796"
+    },
+    {
+      "file": "Bedjan_page_471.txt",
+      "page": 471,
+      "parts": [
+        4
+      ],
+      "sha256": "770ecffa00183258b41c72584d24553435a0767791e26c3efc7992031e46a4d4"
+    },
+    {
+      "file": "Bedjan_page_472.txt",
+      "page": 472,
+      "parts": [
+        4
+      ],
+      "sha256": "1cbc81feda152cb018f9aa19b2ed4e4782af09de260757549f8cfaf17d655057"
+    },
+    {
+      "file": "Bedjan_page_473.txt",
+      "page": 473,
+      "parts": [
+        4
+      ],
+      "sha256": "bab0b0bbb4c0dd51ac5019c60bdbd5b19b05d32c638a6cd65ed4bbeab242b385"
+    },
+    {
+      "file": "Bedjan_page_474.txt",
+      "page": 474,
+      "parts": [
+        4
+      ],
+      "sha256": "92b0d5c3fc12bc71d944a2371673c9215192c439492bb8e951ef88efc97465f4"
+    },
+    {
+      "file": "Bedjan_page_475.txt",
+      "page": 475,
+      "parts": [
+        4
+      ],
+      "sha256": "8870e45afe3a366ddeed729dc18e54664357a35c135e849d3fa8de68e2fc35b1"
+    },
+    {
+      "file": "Bedjan_page_476.txt",
+      "page": 476,
+      "parts": [
+        4
+      ],
+      "sha256": "2792391a2e4214b37b8ad2542003b2885f240e5dcfdcb0dacd4de775e0761d9f"
+    },
+    {
+      "file": "Bedjan_page_477.txt",
+      "page": 477,
+      "parts": [
+        4
+      ],
+      "sha256": "a8d81a80a380edec91719d13207b855fc2331d51ad1939b6b9d2da53e4a7f128"
+    },
+    {
+      "file": "Bedjan_page_478.txt",
+      "page": 478,
+      "parts": [
+        4
+      ],
+      "sha256": "d39814992f73b909cbabbe453ea4807ca013d1169b3cd36524510d8a51818e1d"
+    },
+    {
+      "file": "Bedjan_page_479.txt",
+      "page": 479,
+      "parts": [
+        4
+      ],
+      "sha256": "720bf4fd5754f6cc2b4da82d83d6ad5c9ca091177ec71346e444a09f32f9002b"
+    },
+    {
+      "file": "Bedjan_page_480.txt",
+      "page": 480,
+      "parts": [
+        4
+      ],
+      "sha256": "1e15d176b0e415f2eebddc19a0e166d05d51134c932c6f4abc22517af4290c44"
+    },
+    {
+      "file": "Bedjan_page_481.txt",
+      "page": 481,
+      "parts": [
+        4
+      ],
+      "sha256": "1b370bbd095ceec170302c70f417fb498d251172ee65ccb985c723bd617c11e4"
+    },
+    {
+      "file": "Bedjan_page_482.txt",
+      "page": 482,
+      "parts": [
+        4
+      ],
+      "sha256": "88f26ba7960834d983eeb58923291fc2bf84586080eedc93adea7ef49b41ebd3"
+    },
+    {
+      "file": "Bedjan_page_483.txt",
+      "page": 483,
+      "parts": [
+        4
+      ],
+      "sha256": "ca7838e34844f1f5c1cf808f5a0e094da9e38d150f78cea6389c0c79c43d1a2f"
+    },
+    {
+      "file": "Bedjan_page_484.txt",
+      "page": 484,
+      "parts": [
+        4
+      ],
+      "sha256": "2cdc28ea169f09d3e168b023a263219cb55b06fb208f250d8304dfd05e4a105d"
+    },
+    {
+      "file": "Bedjan_page_485.txt",
+      "page": 485,
+      "parts": [
+        4
+      ],
+      "sha256": "18c2cb5ae3d0026acedd94d9e4ecd503b6fdec39cf133b07045d52d908f1c289"
+    },
+    {
+      "file": "Bedjan_page_486.txt",
+      "page": 486,
+      "parts": [
+        4
+      ],
+      "sha256": "b2046c88603ea126a575af56f7181a79585997d77b9647943b7806ef0e537bd3"
+    },
+    {
+      "file": "Bedjan_page_487.txt",
+      "page": 487,
+      "parts": [
+        4
+      ],
+      "sha256": "fd2a6950a41e884cd6d501be6ef95ecb54657cafa4bc4536e5e8ee81cfb86b57"
+    },
+    {
+      "file": "Bedjan_page_488.txt",
+      "page": 488,
+      "parts": [
+        4
+      ],
+      "sha256": "bd5d4b8ad89c7cce262bdc0797d44d83df0abdc7a854cd51198a56becd80b436"
+    },
+    {
+      "file": "Bedjan_page_489.txt",
+      "page": 489,
+      "parts": [
+        4
+      ],
+      "sha256": "9156081e521260470469f950e1aa340fbcb214f32e4173483787ea02153984ad"
+    },
+    {
+      "file": "Bedjan_page_490.txt",
+      "page": 490,
+      "parts": [
+        4
+      ],
+      "sha256": "09b7daddd14556899aa44b0069aca458af05b0814e1900740a89848cc0df52f8"
+    },
+    {
+      "file": "Bedjan_page_491.txt",
+      "page": 491,
+      "parts": [
+        4
+      ],
+      "sha256": "a94b02e7df39249a12540ba3b7b3669facb33b2ad0dd0f5a79214b62ef9f128d"
+    },
+    {
+      "file": "Bedjan_page_492.txt",
+      "page": 492,
+      "parts": [
+        4
+      ],
+      "sha256": "69dedecf43583e234d854eebbe4ae6e4b640b007ecb1a58e4c5ee26f083cb5c0"
+    },
+    {
+      "file": "Bedjan_page_493.txt",
+      "page": 493,
+      "parts": [
+        4
+      ],
+      "sha256": "8e4d915b8236260c96a08a97fff2811b0fd3f510fbc70fbc8c30dfab5104e316"
+    },
+    {
+      "file": "Bedjan_page_494.txt",
+      "page": 494,
+      "parts": [
+        4
+      ],
+      "sha256": "7178516ddd5881048d9aab556f8e8f4d34c660ff4e4cf86bf0e7ca2966ebf26b"
+    },
+    {
+      "file": "Bedjan_page_495.txt",
+      "page": 495,
+      "parts": [
+        4
+      ],
+      "sha256": "0c2884e594fe57f7220088dfc503b7f747448a192b0d98a48e1ec9d995b570e8"
+    },
+    {
+      "file": "Bedjan_page_496.txt",
+      "page": 496,
+      "parts": [
+        4
+      ],
+      "sha256": "10d3e7c7872cf0dc005f4c91500d0499b8456bd6486f348218435dec685b8e02"
+    },
+    {
+      "file": "Bedjan_page_497.txt",
+      "page": 497,
+      "parts": [
+        4
+      ],
+      "sha256": "2516e451b45d9c26e03d01fe5238a492570a947af15512982b958c3f05c53819"
+    },
+    {
+      "file": "Bedjan_page_498.txt",
+      "page": 498,
+      "parts": [
+        4
+      ],
+      "sha256": "89adafa1a4335d03fe96bf36ba5b6295b5544d3c47040da10defa5a7751ab422"
+    },
+    {
+      "file": "Bedjan_page_499.txt",
+      "page": 499,
+      "parts": [
+        4
+      ],
+      "sha256": "a5eb559755bed16edcf66bc972244dc22a314c8d470c9ade8fb29d9c7a109260"
+    },
+    {
+      "file": "Bedjan_page_500.txt",
+      "page": 500,
+      "parts": [
+        4
+      ],
+      "sha256": "1f2121a22db13751e6c7b0ffc1aa6c62f4c033a7c93dfba96da28f65881ed562"
+    },
+    {
+      "file": "Bedjan_page_501.txt",
+      "page": 501,
+      "parts": [
+        4
+      ],
+      "sha256": "6539037d03850eaf55e40ba490225b481a512dff0936e8794b9925e84361183d"
+    },
+    {
+      "file": "Bedjan_page_502.txt",
+      "page": 502,
+      "parts": [
+        4
+      ],
+      "sha256": "7410780bd8a47511caacae0de2462679c21720dbaf38f5a4d2b0f74c262e59b7"
+    },
+    {
+      "file": "Bedjan_page_503.txt",
+      "page": 503,
+      "parts": [
+        4
+      ],
+      "sha256": "e09cb9b011f25c00395ae3dd76e759d8dba7e2ee1ecf28804b80b1d45e05bb13"
+    },
+    {
+      "file": "Bedjan_page_504.txt",
+      "page": 504,
+      "parts": [
+        4
+      ],
+      "sha256": "eeb3b683a7ef94c0e60e589435360dc594fed6eb536058af63bcf6088c5d0bd7"
+    },
+    {
+      "file": "Bedjan_page_505.txt",
+      "page": 505,
+      "parts": [
+        4
+      ],
+      "sha256": "0b6e86890eb0c3e7d889edfaf745b8a55ca5a87898a8e98608488144363c8f11"
+    },
+    {
+      "file": "Bedjan_page_506.txt",
+      "page": 506,
+      "parts": [
+        4
+      ],
+      "sha256": "9d7e4e131cd2c57f9cee7b0ce81a15909c8a0599a9d4bec5c6f91b8675327173"
+    },
+    {
+      "file": "Bedjan_page_507.txt",
+      "page": 507,
+      "parts": [
+        4
+      ],
+      "sha256": "4a9721242d40147e6d7cd378e28918b5606f76317f5642423a75bdbfa42e5e9e"
+    },
+    {
+      "file": "Bedjan_page_508.txt",
+      "page": 508,
+      "parts": [
+        4
+      ],
+      "sha256": "f39b9d9d9680aff7bd6d556ec2c1d45ee53043ccd428ce6f706d55269b90c55c"
+    },
+    {
+      "file": "Bedjan_page_509.txt",
+      "page": 509,
+      "parts": [
+        4
+      ],
+      "sha256": "ca2bfc1f131a4f14190b56aa8a3ffe6cea225757e2c948480e750b81904737fc"
+    },
+    {
+      "file": "Bedjan_page_510.txt",
+      "page": 510,
+      "parts": [
+        4
+      ],
+      "sha256": "edd77e785cfcdbc263336359806d9c5dd4a2d198261527e9d20a5ddf784bfe6f"
+    },
+    {
+      "file": "Bedjan_page_511.txt",
+      "page": 511,
+      "parts": [
+        4
+      ],
+      "sha256": "ca14de985bba139c3c44dd8eb34548dda3780dc9f060766562f7838eb34b64fe"
+    },
+    {
+      "file": "Bedjan_page_512.txt",
+      "page": 512,
+      "parts": [
+        4
+      ],
+      "sha256": "d173225654b5a3e701892b729f09135cb144db3ee8ddcdfcdaa2aa70cb815dec"
+    },
+    {
+      "file": "Bedjan_page_513.txt",
+      "page": 513,
+      "parts": [
+        5
+      ],
+      "sha256": "91ebc536cb6e35820f942899ae5d713f13c5b6208bd1c9d7bcef0df52b01140f"
+    },
+    {
+      "file": "Bedjan_page_514.txt",
+      "page": 514,
+      "parts": [
+        5
+      ],
+      "sha256": "91d05e71705b85d063642169dc7decd4afd2457ab50af7ea8990c3521bc0c127"
+    },
+    {
+      "file": "Bedjan_page_515.txt",
+      "page": 515,
+      "parts": [
+        5
+      ],
+      "sha256": "db55aa70596f62bcfe527536d01b52d57da3a075d4570eea974cc05acfef4b88"
+    },
+    {
+      "file": "Bedjan_page_516.txt",
+      "page": 516,
+      "parts": [
+        5
+      ],
+      "sha256": "e259dab2549943814b26eb95a4be3d54735996f29888990f572837cba9660c88"
+    },
+    {
+      "file": "Bedjan_page_517.txt",
+      "page": 517,
+      "parts": [
+        5
+      ],
+      "sha256": "c101e877932c6fe1e776c196ad2845acf4860e437afd5cfaf0c399c0263f0bed"
+    },
+    {
+      "file": "Bedjan_page_518.txt",
+      "page": 518,
+      "parts": [
+        5
+      ],
+      "sha256": "8755fe8d640abd129f155dcb4243288cdde45692eb83b04d900cf16a6968f83c"
+    },
+    {
+      "file": "Bedjan_page_519.txt",
+      "page": 519,
+      "parts": [
+        5
+      ],
+      "sha256": "0a300031f085caf1864bf0c7c0662e78053d31892a704e5d63e47d9409889cf7"
+    },
+    {
+      "file": "Bedjan_page_520.txt",
+      "page": 520,
+      "parts": [
+        5
+      ],
+      "sha256": "a574aaa4ebf9e5c385579c94c7fca9fe63e80abbf3f96bc528208c083b0df531"
+    },
+    {
+      "file": "Bedjan_page_521.txt",
+      "page": 521,
+      "parts": [
+        5
+      ],
+      "sha256": "b27510b7e81a6971049ac51264831b27616af79f4a14c0356269e2cbe6d852ca"
+    },
+    {
+      "file": "Bedjan_page_522.txt",
+      "page": 522,
+      "parts": [
+        5
+      ],
+      "sha256": "2c89a075a7ea172bf8723b2b01495b98b53e423ba1089de9d8ac319748450aa0"
+    },
+    {
+      "file": "Bedjan_page_523.txt",
+      "page": 523,
+      "parts": [
+        5
+      ],
+      "sha256": "4b5c0fd903154a9ba33b61376b828a4354f95f097ab9f6a63404167f80d12d86"
+    },
+    {
+      "file": "Bedjan_page_524.txt",
+      "page": 524,
+      "parts": [
+        5
+      ],
+      "sha256": "e9442dcc251b221116ace4c298cb44749f655f0cbba46ec80d438a0722abc161"
+    },
+    {
+      "file": "Bedjan_page_525.txt",
+      "page": 525,
+      "parts": [
+        5
+      ],
+      "sha256": "9661e83a0fa236751ce39ddff518e8ecb23fbbf153d49964433e4580ce81432d"
+    },
+    {
+      "file": "Bedjan_page_526.txt",
+      "page": 526,
+      "parts": [
+        5
+      ],
+      "sha256": "23d74fe8676db3e87dc419408f20bb6b2585bbc9ae8f0cc990f27bfd8c17f913"
+    },
+    {
+      "file": "Bedjan_page_527.txt",
+      "page": 527,
+      "parts": [
+        5
+      ],
+      "sha256": "d5881fce507f85ef900b5bcdccb62d00146d3f95aade791bf6de1abdb4518a35"
+    },
+    {
+      "file": "Bedjan_page_528.txt",
+      "page": 528,
+      "parts": [
+        5
+      ],
+      "sha256": "40ec1c0cef287d3b9589f16719424e8ac426d4142b89459e1fe982e0c313a5d1"
+    },
+    {
+      "file": "Bedjan_page_529.txt",
+      "page": 529,
+      "parts": [
+        5
+      ],
+      "sha256": "1ecf726694708fe789201830008e55197cab74ac4b0ac5297235b52d9b9addeb"
+    },
+    {
+      "file": "Bedjan_page_530.txt",
+      "page": 530,
+      "parts": [
+        5
+      ],
+      "sha256": "b967a84536c583cd936249b00181ba59fa7fd24ef3fe7531a446f7ae805cb31e"
+    },
+    {
+      "file": "Bedjan_page_531.txt",
+      "page": 531,
+      "parts": [
+        5
+      ],
+      "sha256": "c5ddd3a2dad84811be5d67a6bce8f9094a2b5632244412d341fbf8308871d28a"
+    },
+    {
+      "file": "Bedjan_page_532.txt",
+      "page": 532,
+      "parts": [
+        5
+      ],
+      "sha256": "be3c394e030b7b1bd3d97241900a62a532fd28cd6dcd651db9c3980e5fdc7086"
+    },
+    {
+      "file": "Bedjan_page_533.txt",
+      "page": 533,
+      "parts": [
+        5
+      ],
+      "sha256": "a8641b8d9dad1ba20a13c93d84c00e5e236670725eca730a61f7214d3627f332"
+    },
+    {
+      "file": "Bedjan_page_534.txt",
+      "page": 534,
+      "parts": [
+        5
+      ],
+      "sha256": "4159c35a5dceb8ca87a36d8031f9d07bef2ed6a6898b6237fc10e66594931109"
+    },
+    {
+      "file": "Bedjan_page_535.txt",
+      "page": 535,
+      "parts": [
+        5
+      ],
+      "sha256": "4a6e0d6123778a2889817bdd40cc8de02b58afcaca071c11b78af1507270f75a"
+    },
+    {
+      "file": "Bedjan_page_536.txt",
+      "page": 536,
+      "parts": [
+        5
+      ],
+      "sha256": "cd72f089f0ca5a538fe7205533eac61696bce4e44f4f24fcd1770fd83c039bdd"
+    },
+    {
+      "file": "Bedjan_page_537.txt",
+      "page": 537,
+      "parts": [
+        5
+      ],
+      "sha256": "91d1c73975dc0df2dcc18e1c7a386038688c0fd56373d2c5bd25bc9e26716b2c"
+    },
+    {
+      "file": "Bedjan_page_538.txt",
+      "page": 538,
+      "parts": [
+        5
+      ],
+      "sha256": "55b3d2e4b45bfbdd6597ed1be189fe826825ca02758cac035b1e272673f75ba6"
+    },
+    {
+      "file": "Bedjan_page_539.txt",
+      "page": 539,
+      "parts": [
+        5
+      ],
+      "sha256": "e3d57b1744336dac05ef0b151eb0a8db9fd53d5e72c4ae2d33808dae35719f25"
+    },
+    {
+      "file": "Bedjan_page_540.txt",
+      "page": 540,
+      "parts": [
+        5
+      ],
+      "sha256": "34138198ac923591f607cfce7e2c93f6683d733e828c994906010f5cbc616fbc"
+    },
+    {
+      "file": "Bedjan_page_541.txt",
+      "page": 541,
+      "parts": [
+        5
+      ],
+      "sha256": "12188c4289ae43336cfad787c5711b71a126f42e45d156bb16bfe5feb47507e8"
+    },
+    {
+      "file": "Bedjan_page_542.txt",
+      "page": 542,
+      "parts": [
+        5
+      ],
+      "sha256": "50754468adf2182f898e7a08ec1bbb85c92656efe42ac1e24b470e595c39bc0f"
+    },
+    {
+      "file": "Bedjan_page_543.txt",
+      "page": 543,
+      "parts": [
+        5
+      ],
+      "sha256": "f97c21a3f8b2d5f983052dcf1623c61a94a0301ceef389ea90fabcd2465a00b6"
+    },
+    {
+      "file": "Bedjan_page_544.txt",
+      "page": 544,
+      "parts": [
+        5
+      ],
+      "sha256": "255f10e366081265641263d5d639035fcbcd469f228cac1ec4b8d94cf7575369"
+    },
+    {
+      "file": "Bedjan_page_545.txt",
+      "page": 545,
+      "parts": [
+        5
+      ],
+      "sha256": "ae4185208483b7e415a7de066c03b0fae79fe36d8b82ce2bd04f35e36b42916f"
+    },
+    {
+      "file": "Bedjan_page_546.txt",
+      "page": 546,
+      "parts": [
+        5
+      ],
+      "sha256": "3f2e8ae4e5348ea965bba11ff80f60d8323a270a6173ba0d8b34251fe43b9244"
+    },
+    {
+      "file": "Bedjan_page_547.txt",
+      "page": 547,
+      "parts": [
+        5
+      ],
+      "sha256": "8630cfef7d9e42b394f58a387c2a28049963beca0143981e86d002f05232cc66"
+    },
+    {
+      "file": "Bedjan_page_548.txt",
+      "page": 548,
+      "parts": [
+        5
+      ],
+      "sha256": "5e8755a55c5aa5a7ae4d98eff770f67b7bcf7b304cbbd96fc269bf73574ebfe4"
+    },
+    {
+      "file": "Bedjan_page_549.txt",
+      "page": 549,
+      "parts": [
+        5
+      ],
+      "sha256": "f40d8192ae9295b20f528143295cf56a53c2577e6a38ce3685e6b18c79a800b5"
+    },
+    {
+      "file": "Bedjan_page_550.txt",
+      "page": 550,
+      "parts": [
+        5
+      ],
+      "sha256": "54f37dab42d28d0b0008962855668e3bf6217512b7b802bcd6b8112def457994"
+    },
+    {
+      "file": "Bedjan_page_551.txt",
+      "page": 551,
+      "parts": [
+        5
+      ],
+      "sha256": "dfcc44d3d226aa9d385957de5eb97d80ce9eb83275f8384722a8e4544d450725"
+    },
+    {
+      "file": "Bedjan_page_552.txt",
+      "page": 552,
+      "parts": [
+        5
+      ],
+      "sha256": "8a1dd312e05f3b6b1094d95568949f1e788e93d17ce4e34e25c2ba087e002011"
+    },
+    {
+      "file": "Bedjan_page_553.txt",
+      "page": 553,
+      "parts": [
+        5
+      ],
+      "sha256": "fe4f32d838eec3dc3222dfd57790d6fe133c5d76d5edd8734068ca63782fea15"
+    },
+    {
+      "file": "Bedjan_page_554.txt",
+      "page": 554,
+      "parts": [
+        5
+      ],
+      "sha256": "872bc54f1578b308bc7910803a23f2c2d9827500698fa22907324808bf999ade"
+    },
+    {
+      "file": "Bedjan_page_555.txt",
+      "page": 555,
+      "parts": [
+        5
+      ],
+      "sha256": "d6e5c1a6117f981e88407bbd0c9a3a784f9d8cd9044eb229807b35a47f3f6b4d"
+    },
+    {
+      "file": "Bedjan_page_556.txt",
+      "page": 556,
+      "parts": [
+        5
+      ],
+      "sha256": "08d9805b8d7dc7cef7b112b085ae626c1ff22a5d85aaf38eaa13d3a2cdf78245"
+    },
+    {
+      "file": "Bedjan_page_557.txt",
+      "page": 557,
+      "parts": [
+        5
+      ],
+      "sha256": "38a4e0ddb8cb157f68512787831d56c8f07f0968903079883bf3bef30a4dcdd5"
+    },
+    {
+      "file": "Bedjan_page_558.txt",
+      "page": 558,
+      "parts": [
+        5
+      ],
+      "sha256": "f3180121c7611e088242ce855d7eac5aca615a71f57e268c3ed122a0d49b25ef"
+    },
+    {
+      "file": "Bedjan_page_559.txt",
+      "page": 559,
+      "parts": [
+        5
+      ],
+      "sha256": "57a3f561aee4bf4d11c15be62f7f549c53992619c4dc2df9e0e8be29df2c2a2f"
+    },
+    {
+      "file": "Bedjan_page_560.txt",
+      "page": 560,
+      "parts": [
+        5
+      ],
+      "sha256": "56ed9ea8f9ca35f9c007c988308cf2e2fdaac4042489d0e8b499281236e3cab6"
+    },
+    {
+      "file": "Bedjan_page_561.txt",
+      "page": 561,
+      "parts": [
+        5
+      ],
+      "sha256": "c828ab00560099007ff6b8c7208e567aa1b895b2b1fd0dcf952b5af38ffe4279"
+    },
+    {
+      "file": "Bedjan_page_562.txt",
+      "page": 562,
+      "parts": [
+        5
+      ],
+      "sha256": "c98284bd34850a42e5e97372975febbd9e748a1215330e63a171a4a88e925d9d"
+    },
+    {
+      "file": "Bedjan_page_563.txt",
+      "page": 563,
+      "parts": [
+        5
+      ],
+      "sha256": "d5f130cf24f02fa698e5dbb018405565954e9469add77d408fd042a3531e50a4"
+    },
+    {
+      "file": "Bedjan_page_564.txt",
+      "page": 564,
+      "parts": [
+        5
+      ],
+      "sha256": "41993f54cfb7763e7c04229ddc4aaa0816b1370f7a0dfff608dcc4284aac7f04"
+    },
+    {
+      "file": "Bedjan_page_565.txt",
+      "page": 565,
+      "parts": [
+        5
+      ],
+      "sha256": "b2d4099d14494cb5d12fd28d75710628cb1c901da66e479d71aaffcc6cee9e8b"
+    },
+    {
+      "file": "Bedjan_page_566.txt",
+      "page": 566,
+      "parts": [
+        5
+      ],
+      "sha256": "5cb49c14e661f894c7caa67095f726cd9cae6ed60ed2126f6556271c2182e060"
+    },
+    {
+      "file": "Bedjan_page_567.txt",
+      "page": 567,
+      "parts": [
+        5
+      ],
+      "sha256": "51ba42bce0c8a679c751b42336d3f0386c1925b755c28ce15b233b352814cb24"
+    },
+    {
+      "file": "Bedjan_page_568.txt",
+      "page": 568,
+      "parts": [
+        5
+      ],
+      "sha256": "c001fa55f7b75b19e292edb9e1a83f6bab8d4cd22672146e9b2ddb37e63edcc2"
+    },
+    {
+      "file": "Bedjan_page_569.txt",
+      "page": 569,
+      "parts": [
+        5
+      ],
+      "sha256": "3d7d05c609203bda5c012c05331c4f8a3648c68f5fb7e79db96465a247c8b5b4"
+    },
+    {
+      "file": "Bedjan_page_570.txt",
+      "page": 570,
+      "parts": [
+        5
+      ],
+      "sha256": "cbfd6d4646a725fc8e97094d8a2c921d50dd5505e088f935f8091733fdce7616"
+    },
+    {
+      "file": "Bedjan_page_571.txt",
+      "page": 571,
+      "parts": [
+        5
+      ],
+      "sha256": "b7b94b9bcbcbe5aae2e316de3967abac8bec356fdea507e6244f347c4c51b6ed"
+    },
+    {
+      "file": "Bedjan_page_572.txt",
+      "page": 572,
+      "parts": [
+        5
+      ],
+      "sha256": "b513d3a9838169e0d9996a8ed9da38dd444f683cfb09ba717de9f8667458a724"
+    },
+    {
+      "file": "Bedjan_page_573.txt",
+      "page": 573,
+      "parts": [
+        5
+      ],
+      "sha256": "75c0be8c6fa6c25d8b89c8ac9b77b42ecc7278b35fa0995ab94e30d793941fde"
+    },
+    {
+      "file": "Bedjan_page_574.txt",
+      "page": 574,
+      "parts": [
+        5
+      ],
+      "sha256": "562a31546d26f83f5cef25dd9b96f79e274b3956e57a156f48bd9f90ba526e9b"
+    },
+    {
+      "file": "Bedjan_page_575.txt",
+      "page": 575,
+      "parts": [
+        5
+      ],
+      "sha256": "eb3c67259f190dc1d0a77fa321162c716def67162c5b1dcc33131f4da49874e2"
+    },
+    {
+      "file": "Bedjan_page_576.txt",
+      "page": 576,
+      "parts": [
+        5
+      ],
+      "sha256": "f5a8781b8ec0f3ae8943e25ea793a5791a63ea12d725b30ed735c7328665c83d"
+    },
+    {
+      "file": "Bedjan_page_577.txt",
+      "page": 577,
+      "parts": [
+        5
+      ],
+      "sha256": "a2e3b143db4007fa19bbb36ad6c1c6042e401fb131614a9d4dca44554c1270cd"
+    },
+    {
+      "file": "Bedjan_page_578.txt",
+      "page": 578,
+      "parts": [
+        5
+      ],
+      "sha256": "c935c55a5ffea85f15bfd81e46581cd255c2ebcc71a274fcaeec3207294fe9a4"
+    },
+    {
+      "file": "Bedjan_page_579.txt",
+      "page": 579,
+      "parts": [
+        5
+      ],
+      "sha256": "018ad28e7df032a4f49b490bf96f0e1f07ca20ff435d9e78bd4365e3bc2f5dab"
+    },
+    {
+      "file": "Bedjan_page_580.txt",
+      "page": 580,
+      "parts": [
+        5
+      ],
+      "sha256": "785683a9dbc20094e6d28c2d5fec10eb23afc9009472d4f781c5490614af1682"
+    },
+    {
+      "file": "Bedjan_page_581.txt",
+      "page": 581,
+      "parts": [
+        5
+      ],
+      "sha256": "a8d899c75c5e30f75f2ec4d422defa7916bbfbc8339cddb65373116a5f939c9a"
+    },
+    {
+      "file": "Bedjan_page_582.txt",
+      "page": 582,
+      "parts": [
+        5
+      ],
+      "sha256": "61642b1461a010b57617a24300fd12a65378c177fd2d6bdd3f229aff61e77a7f"
+    },
+    {
+      "file": "Bedjan_page_583.txt",
+      "page": 583,
+      "parts": [
+        5
+      ],
+      "sha256": "5b1cfd7cb770e498cf89ecf0d4317ccdd8f98854ba236dd970e3da712de5060d"
+    },
+    {
+      "file": "Bedjan_page_584.txt",
+      "page": 584,
+      "parts": [
+        5
+      ],
+      "sha256": "9c8b3ace9154f48720ce779ece30501020b7981dd555b99bdfa4c9564410ba3a"
+    },
+    {
+      "file": "Bedjan_page_585.txt",
+      "page": 585,
+      "parts": [
+        5
+      ],
+      "sha256": "3ecbabeb38ec98aa42a1dba095fc511fdbc1ada0c59f7cf1b257356490cc67df"
+    },
+    {
+      "file": "Bedjan_page_586.txt",
+      "page": 586,
+      "parts": [
+        5
+      ],
+      "sha256": "2301eb3171856aa49f0dce0b7d8c2c3ec8412dba566f35fb0b2bc7be5117fa55"
+    },
+    {
+      "file": "Bedjan_page_587.txt",
+      "page": 587,
+      "parts": [
+        5
+      ],
+      "sha256": "d44fafdbb03ba9d36dbec8e88bad61bc0180a37b00419afecc643c34e11ed937"
+    },
+    {
+      "file": "Bedjan_page_588.txt",
+      "page": 588,
+      "parts": [
+        5
+      ],
+      "sha256": "12628188b350c50ee6495aa1fd05bddce4e53bd200199c9a18152f5bd4c0fcc8"
+    },
+    {
+      "file": "Bedjan_page_589.txt",
+      "page": 589,
+      "parts": [
+        5
+      ],
+      "sha256": "2a45ccf356724f9769e34191446d4b49fa216d862f801f3a4a54093be2138049"
+    },
+    {
+      "file": "Bedjan_page_590.txt",
+      "page": 590,
+      "parts": [
+        5
+      ],
+      "sha256": "4985e6e4b19c075a545ccafc98edfe91cd1f32734bf9d7391e33111dc325a0b3"
+    },
+    {
+      "file": "Bedjan_page_591.txt",
+      "page": 591,
+      "parts": [
+        5
+      ],
+      "sha256": "f708aed80d05433aab0ba3b269efaa7eb31e657166c12871df9ce55e03941119"
+    },
+    {
+      "file": "Bedjan_page_592.txt",
+      "page": 592,
+      "parts": [
+        5
+      ],
+      "sha256": "44521cd36fbed63366212cc22dad02e8f8a65138a03223349a86dff1200e761d"
+    },
+    {
+      "file": "Bedjan_page_593.txt",
+      "page": 593,
+      "parts": [
+        5
+      ],
+      "sha256": "6bc204db47dd07122992e85f1236ebb888372f795b86edddafaeac74e533c1d2"
+    },
+    {
+      "file": "Bedjan_page_594.txt",
+      "page": 594,
+      "parts": [
+        5
+      ],
+      "sha256": "a0aff88c1c9f3c4dfe072cf578fe438b2fb2dfc134d0c75320575cced7397c1f"
+    },
+    {
+      "file": "Bedjan_page_595.txt",
+      "page": 595,
+      "parts": [
+        5
+      ],
+      "sha256": "475d7bfe25095cf199b3e224c81db5cc6d5b42d6f86c25c10e9292bc95b41585"
+    },
+    {
+      "file": "Bedjan_page_596.txt",
+      "page": 596,
+      "parts": [
+        5
+      ],
+      "sha256": "74436b42be2073f07e6dcc39bd315958ab2ba0e52ea8314279f0d71107c17bfa"
+    },
+    {
+      "file": "Bedjan_page_597.txt",
+      "page": 597,
+      "parts": [
+        5
+      ],
+      "sha256": "5b85f759240db5c5fbd85dbfb221e0e41dd35a1b0f5698e7b3ab801c406240c5"
+    },
+    {
+      "file": "Bedjan_page_598.txt",
+      "page": 598,
+      "parts": [
+        5
+      ],
+      "sha256": "6070afb3095ee5d4a611d7c249a1253f13f6c9e22e708852bb81dbd7c6f05326"
+    },
+    {
+      "file": "Bedjan_page_599.txt",
+      "page": 599,
+      "parts": [
+        5
+      ],
+      "sha256": "f2197cb04da99660e47103ca1a37631b78c6f72b79368ce26a55b13323b35c8a"
+    },
+    {
+      "file": "Bedjan_page_600.txt",
+      "page": 600,
+      "parts": [
+        5
+      ],
+      "sha256": "88cea9b207562c55ee600555b321a5e1337e389c2d093a7938554c59b75dca0d"
+    },
+    {
+      "file": "Bedjan_page_601.txt",
+      "page": 601,
+      "parts": [
+        5
+      ],
+      "sha256": "e1f3f362cc6233b3f19e2e45cc1f3b4eb27081c3b377cfc5afbf3f87684be730"
+    },
+    {
+      "file": "Bedjan_page_602.txt",
+      "page": 602,
+      "parts": [
+        5
+      ],
+      "sha256": "7ebd4dc307cdc28b3c16f220c51e3b1fd4fc450ffae107862e87c39eb18fcc79"
+    },
+    {
+      "file": "Bedjan_page_603.txt",
+      "page": 603,
+      "parts": [
+        5
+      ],
+      "sha256": "8c915f762dec277bd0d2a559a286ac18632a351cd378e4d6bdb75242c0e2120c"
+    },
+    {
+      "file": "Bedjan_page_604.txt",
+      "page": 604,
+      "parts": [
+        5
+      ],
+      "sha256": "e54f7e1fa53d8045e71b34c2809f436a7b9a759122ef1262904cd4e01b6f03c0"
+    },
+    {
+      "file": "Bedjan_page_605.txt",
+      "page": 605,
+      "parts": [
+        5
+      ],
+      "sha256": "335d6c1dcf7addb8e92157a5f517f50e1db63ddd05c7753f81e0ac8fe9efffea"
+    },
+    {
+      "file": "Bedjan_page_606.txt",
+      "page": 606,
+      "parts": [
+        5
+      ],
+      "sha256": "f348ed91b09455469af1a9bbc8ac70560889e95aed689ce0236dd305acb586fa"
+    },
+    {
+      "file": "Bedjan_page_607.txt",
+      "page": 607,
+      "parts": [
+        5
+      ],
+      "sha256": "0eb5a54e4821dc1e894a020618f169f9c0b3abccae293bf5102f5bddd23266c3"
+    },
+    {
+      "file": "Bedjan_page_608.txt",
+      "page": 608,
+      "parts": [
+        5
+      ],
+      "sha256": "1831d291e98003c1d1631d9f04a687d262276fa74d0809db26c52a1d03ed6421"
+    },
+    {
+      "file": "Bedjan_page_609.txt",
+      "page": 609,
+      "parts": [
+        5
+      ],
+      "sha256": "55cf5b6811b3a0125882c38d8ce73927b54802c7e5a8156b0389ae5aa768ce17"
+    },
+    {
+      "file": "Bedjan_page_610.txt",
+      "page": 610,
+      "parts": [
+        5
+      ],
+      "sha256": "e490cd288b4e0be7c0553afd0fc08dec08052ff62677e68aef25ae694c6b7fba"
+    },
+    {
+      "file": "Bedjan_page_611.txt",
+      "page": 611,
+      "parts": [
+        5
+      ],
+      "sha256": "4eaf1351d8f221638f828478bf54dfb0de25a365c8ecc9d9b8ba8a5014f590d8"
+    },
+    {
+      "file": "Bedjan_page_612.txt",
+      "page": 612,
+      "parts": [
+        5
+      ],
+      "sha256": "40e5c51c553d6bd864a052eb9c79a65a5488b023b08021a3c82d123db44c18dc"
+    },
+    {
+      "file": "Bedjan_page_613.txt",
+      "page": 613,
+      "parts": [
+        5
+      ],
+      "sha256": "ced8596ca23da9790d82961d902c6d04ba9d42bcbf89c8dc694bc966fbaa1494"
+    },
+    {
+      "file": "Bedjan_page_614.txt",
+      "page": 614,
+      "parts": [
+        5
+      ],
+      "sha256": "f1de566791a3d48ff110a07ccf41aebee824363fe89db23e77fbc8210eaa0227"
+    },
+    {
+      "file": "Bedjan_page_615.txt",
+      "page": 615,
+      "parts": [
+        5
+      ],
+      "sha256": "4a2b18a4ab5ed502a7a663b17cf3aa903def44deedaf6eb504ec45c2668ab710"
+    },
+    {
+      "file": "Bedjan_page_616.txt",
+      "page": 616,
+      "parts": [
+        5
+      ],
+      "sha256": "4f6bdc86de7da457076fa50c458f17a06a36e418ededf696e42cea23e9d6e03b"
+    },
+    {
+      "file": "Bedjan_page_617.txt",
+      "page": 617,
+      "parts": [
+        5
+      ],
+      "sha256": "df4ac27030a140dbdcd1e7c0340c823ac241d39e63ffac0b34fb9295d52b996f"
+    },
+    {
+      "file": "Bedjan_page_618.txt",
+      "page": 618,
+      "parts": [
+        5
+      ],
+      "sha256": "e8c8690628715e4670a99a2480aad29a31ab63efc3f5232b7821fa98e6459537"
+    },
+    {
+      "file": "Bedjan_page_619.txt",
+      "page": 619,
+      "parts": [
+        5
+      ],
+      "sha256": "901a6fd63fdb30ed78a676af19ba21afa542cd88d544955518af4ccd971fca5a"
+    },
+    {
+      "file": "Bedjan_page_620.txt",
+      "page": 620,
+      "parts": [
+        5
+      ],
+      "sha256": "501c41b839a61abfbd3a120b5168656f94125de3aa01eb029f2e3fb3d38d884d"
+    },
+    {
+      "file": "Bedjan_page_621.txt",
+      "page": 621,
+      "parts": [
+        5
+      ],
+      "sha256": "5e1a329d48d91de89b40908349bf00fad5d3509045c8e7bd93f580c8554f229d"
+    },
+    {
+      "file": "Bedjan_page_622.txt",
+      "page": 622,
+      "parts": [
+        5
+      ],
+      "sha256": "f11f18972fc515ec0682b922687ef5e28fbe24e27661989a661e6bb1907b8b61"
+    },
+    {
+      "file": "Bedjan_page_623.txt",
+      "page": 623,
+      "parts": [
+        5
+      ],
+      "sha256": "2ed42a94fd8c47e85d7d9e6ec14bb3397e45852594cbaa275ee983207c66cbdd"
+    },
+    {
+      "file": "Bedjan_page_624.txt",
+      "page": 624,
+      "parts": [
+        5
+      ],
+      "sha256": "39fab031f917b1f0cc011ae922e28beb08fcc4aaa96f8a82e73156a11eab10ad"
+    },
+    {
+      "file": "Bedjan_page_625.txt",
+      "page": 625,
+      "parts": [
+        5
+      ],
+      "sha256": "666a398cd9f43f626cf50f578fd2e6e6b3662bf883f50dd1ca8d396f43d02a8d"
+    },
+    {
+      "file": "Bedjan_page_626.txt",
+      "page": 626,
+      "parts": [
+        5
+      ],
+      "sha256": "edd077e67dd03f85ff722ea672ec9c7f7c33877d0e441fd23570ec8f3b22461d"
+    },
+    {
+      "file": "Bedjan_page_627.txt",
+      "page": 627,
+      "parts": [
+        5
+      ],
+      "sha256": "b5e3a7eea4ac46cde443f24cdef8348636db83f6f06abcbcb8e86681652185f9"
+    },
+    {
+      "file": "Bedjan_page_628.txt",
+      "page": 628,
+      "parts": [
+        5
+      ],
+      "sha256": "3b2ae94fbab27fba66adb1a5eacfabf2ae77b6f451cf069c9b0bf4b297142ad5"
+    },
+    {
+      "file": "Bedjan_page_629.txt",
+      "page": 629,
+      "parts": [
+        5
+      ],
+      "sha256": "3074b19e36257917bd693a65f737ab69f5485c9043f44e64b576e7350d791422"
+    },
+    {
+      "file": "Bedjan_page_630.txt",
+      "page": 630,
+      "parts": [
+        5
+      ],
+      "sha256": "4abc3028d295b995b9443be67049723a1385611a1a34c79f3c9625bed4c4548a"
+    },
+    {
+      "file": "Bedjan_page_631.txt",
+      "page": 631,
+      "parts": [
+        5
+      ],
+      "sha256": "88700fc9e6ca3399804020c97c0d2f5731e6e2c6bffb620a7266c30744364965"
+    },
+    {
+      "file": "Bedjan_page_632.txt",
+      "page": 632,
+      "parts": [
+        5
+      ],
+      "sha256": "17a9a9d642e0d19162540963358164440f657cac8108577821a47564cf986c23"
+    },
+    {
+      "file": "Bedjan_page_633.txt",
+      "page": 633,
+      "parts": [
+        5
+      ],
+      "sha256": "a8cce59d1626b4ec26f3212cea6a19aa3142c11a3c60caf54e19019a8d76ba3e"
+    },
+    {
+      "file": "Bedjan_page_634.txt",
+      "page": 634,
+      "parts": [
+        5
+      ],
+      "sha256": "1cee794d1947fa6f7d1b96ff17fddc7d0aadf99b30e4b555723f92279ee36a52"
+    },
+    {
+      "file": "Bedjan_page_635.txt",
+      "page": 635,
+      "parts": [
+        5
+      ],
+      "sha256": "ee68c94a5ada93d90752e4c1575820a481421f6cd11d249fb236c6e07585ba12"
+    },
+    {
+      "file": "Bedjan_page_636.txt",
+      "page": 636,
+      "parts": [
+        5
+      ],
+      "sha256": "760a16e5335fd3a49a5dd31f5fafe381f6576d5f7abdd65a4f7e93191ae81d54"
+    },
+    {
+      "file": "Bedjan_page_637.txt",
+      "page": 637,
+      "parts": [
+        5
+      ],
+      "sha256": "e8e14e2fef96570d1968beec0f4c16757153a1046e898b547e6930e30bc3911b"
+    },
+    {
+      "file": "Bedjan_page_638.txt",
+      "page": 638,
+      "parts": [
+        5
+      ],
+      "sha256": "156f7a345be8a7b102c4ab30781f7353f56b40b996ad038139b16f7309fbc699"
+    }
+  ]
+}
